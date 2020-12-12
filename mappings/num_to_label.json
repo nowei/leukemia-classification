@@ -1,0 +1,20 @@
+{
+    "0": "MDS",
+    "1": "CLL",
+    "2": "AML complex aberrant karyotype",
+    "3": "AML with normal karyotype + other abnormalities",
+    "4": "c-ALL/Pre-B-ALL without t(9;22)",
+    "5": "T-ALL",
+    "6": "CML",
+    "7": "AML with t(11q23)/MLL",
+    "8": "ALL with t(12;21)",
+    "9": "Non-leukemia and healthy bone marrow",
+    "10": "c-ALL/Pre-B-ALL with t(9;22)",
+    "11": "AML with t(8;21)",
+    "12": "ALL with hyperdiploid karyotype",
+    "13": "ALL with t(1;19)",
+    "14": "Pro-B-ALL with t(11q23)/MLL",
+    "15": "AML with t(15;17)",
+    "16": "AML with inv(16)/t(16;16)",
+    "17": "mature B-ALL with t(8;14)"
+}

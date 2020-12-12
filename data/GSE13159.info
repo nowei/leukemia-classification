@@ -1,0 +1,2097 @@
+Array   Sample_title    SampleType
+GSM331561   MILES stage 1 data N1_1925  MDS
+GSM331229   MILES stage 1 data N1_1593  CLL
+GSM330897   MILES stage 1 data N1_1261  AML complex aberrant karyotype
+GSM330565   MILES stage 1 data N1_0929  AML with normal karyotype + other abnormalities
+GSM330233   MILES stage 1 data N1_0603  c-ALL/Pre-B-ALL without t(9;22)
+GSM329901   MILES stage 1 data N1_0271  T-ALL
+GSM331538   MILES stage 1 data N1_1902  MDS
+GSM331206   MILES stage 1 data N1_1570  CLL
+GSM330874   MILES stage 1 data N1_1238  AML with normal karyotype + other abnormalities
+GSM330542   MILES stage 1 data N1_0906  AML with normal karyotype + other abnormalities
+GSM330327   MILES stage 1 data N1_0691  c-ALL/Pre-B-ALL without t(9;22)
+GSM330210   MILES stage 1 data N1_0580  c-ALL/Pre-B-ALL without t(9;22)
+GSM329995   MILES stage 1 data N1_0365  T-ALL
+GSM329878   MILES stage 1 data N1_0248  T-ALL
+GSM331515   MILES stage 1 data N1_1879  MDS
+GSM331444   MILES stage 1 data N1_1808  CML
+GSM331183   MILES stage 1 data N1_1547  CLL
+GSM331112   MILES stage 1 data N1_1476  CLL
+GSM331014   MILES stage 1 data N1_1378  CLL
+GSM330851   MILES stage 1 data N1_1215  AML with normal karyotype + other abnormalities
+GSM330682   MILES stage 1 data N1_1046  AML with normal karyotype + other abnormalities
+GSM330519   MILES stage 1 data N1_0883  AML with t(11q23)/MLL
+GSM330350   MILES stage 1 data N1_0714  c-ALL/Pre-B-ALL without t(9;22)
+GSM330187   MILES stage 1 data N1_0557  c-ALL/Pre-B-ALL without t(9;22)
+GSM330018   MILES stage 1 data N1_0388  ALL with t(12;21)
+GSM329855   MILES stage 1 data N1_0225  T-ALL
+GSM331701   MILES stage 1 data N1_2065  Non-leukemia and healthy bone marrow
+GSM331369   MILES stage 1 data N1_1733  CLL
+GSM331160   MILES stage 1 data N1_1524  CLL
+GSM331037   MILES stage 1 data N1_1401  CLL
+GSM330828   MILES stage 1 data N1_1192  AML with normal karyotype + other abnormalities
+GSM330705   MILES stage 1 data N1_1069  AML with normal karyotype + other abnormalities
+GSM330496   MILES stage 1 data N1_0860  AML with t(11q23)/MLL
+GSM330373   MILES stage 1 data N1_0737  c-ALL/Pre-B-ALL without t(9;22)
+GSM330164   MILES stage 1 data N1_0534  c-ALL/Pre-B-ALL without t(9;22)
+GSM330041   MILES stage 1 data N1_0411  ALL with t(12;21)
+GSM329832   MILES stage 1 data N1_0202  c-ALL/Pre-B-ALL with t(9;22)
+GSM331724   MILES stage 1 data N1_2088  Non-leukemia and healthy bone marrow
+GSM331398   MILES stage 1 data N1_1762  CML
+GSM331060   MILES stage 1 data N1_1424  CLL
+GSM330734   MILES stage 1 data N1_1098  AML with normal karyotype + other abnormalities
+GSM330396   MILES stage 1 data N1_0760  AML with t(8;21)
+GSM330141   MILES stage 1 data N1_0511  ALL with hyperdiploid karyotype
+GSM330070   MILES stage 1 data N1_0440  ALL with t(1;19)
+GSM329732   MILES stage 1 data N1_0102  c-ALL/Pre-B-ALL with t(9;22)
+GSM329477   MILES stage 1 data N1_0071  Pro-B-ALL with t(11q23)/MLL
+GSM331421   MILES stage 1 data N1_1785  CML
+GSM331298   MILES stage 1 data N1_1662  CLL
+GSM331083   MILES stage 1 data N1_1447  CLL
+GSM330757   MILES stage 1 data N1_1121  AML with normal karyotype + other abnormalities
+GSM330419   MILES stage 1 data N1_0783  AML with t(8;21)
+GSM329755   MILES stage 1 data N1_0125  c-ALL/Pre-B-ALL with t(9;22)
+GSM329454   MILES stage 1 data N1_0048  Pro-B-ALL with t(11q23)/MLL
+GSM331352   MILES stage 1 data N1_1716  CLL
+GSM331275   MILES stage 1 data N1_1639  CLL
+GSM331106   MILES stage 1 data N1_1470  CLL
+GSM330688   MILES stage 1 data N1_1052  AML with normal karyotype + other abnormalities
+GSM330611   MILES stage 1 data N1_0975  AML with normal karyotype + other abnormalities
+GSM330442   MILES stage 1 data N1_0806  AML with t(15;17)
+GSM330024   MILES stage 1 data N1_0394  ALL with t(12;21)
+GSM329947   MILES stage 1 data N1_0317  T-ALL
+GSM329849   MILES stage 1 data N1_0219  T-ALL
+GSM329778   MILES stage 1 data N1_0148  c-ALL/Pre-B-ALL with t(9;22)
+GSM331375   MILES stage 1 data N1_1739  CLL
+GSM331252   MILES stage 1 data N1_1616  CLL
+GSM331129   MILES stage 1 data N1_1493  CLL
+GSM330711   MILES stage 1 data N1_1075  AML with normal karyotype + other abnormalities
+GSM330588   MILES stage 1 data N1_0952  AML with normal karyotype + other abnormalities
+GSM330465   MILES stage 1 data N1_0829  AML with inv(16)/t(16;16)
+GSM330047   MILES stage 1 data N1_0417  ALL with t(12;21)
+GSM329924   MILES stage 1 data N1_0294  T-ALL
+GSM329801   MILES stage 1 data N1_0171  c-ALL/Pre-B-ALL with t(9;22)
+GSM331567   MILES stage 1 data N1_1931  MDS
+GSM331555   MILES stage 1 data N1_1919  MDS
+GSM331306   MILES stage 1 data N1_1670  CLL
+GSM331223   MILES stage 1 data N1_1587  CLL
+GSM330974   MILES stage 1 data N1_1338  CLL
+GSM330820   MILES stage 1 data N1_1184  AML with normal karyotype + other abnormalities
+GSM330571   MILES stage 1 data N1_0935  AML with normal karyotype + other abnormalities
+GSM330488   MILES stage 1 data N1_0852  AML with inv(16)/t(16;16)
+GSM330227   MILES stage 1 data N1_0597  c-ALL/Pre-B-ALL without t(9;22)
+GSM329978   MILES stage 1 data N1_0348  T-ALL
+GSM329895   MILES stage 1 data N1_0265  T-ALL
+GSM331661   MILES stage 1 data N1_2025  Non-leukemia and healthy bone marrow
+GSM331507   MILES stage 1 data N1_1871  MDS
+GSM331212   MILES stage 1 data N1_1576  CLL
+GSM330880   MILES stage 1 data N1_1244  AML complex aberrant karyotype
+GSM330868   MILES stage 1 data N1_1232  AML with normal karyotype + other abnormalities
+GSM330665   MILES stage 1 data N1_1029  AML with normal karyotype + other abnormalities
+GSM330536   MILES stage 1 data N1_0900  AML with normal karyotype + other abnormalities
+GSM330333   MILES stage 1 data N1_0697  c-ALL/Pre-B-ALL without t(9;22)
+GSM329884   MILES stage 1 data N1_0254  T-ALL
+GSM331601   MILES stage 1 data N1_1965  MDS
+GSM331269   MILES stage 1 data N1_1633  CLL
+GSM330273   MILES stage 1 data N1_0643  c-ALL/Pre-B-ALL without t(9;22)
+GSM329941   MILES stage 1 data N1_0311  T-ALL
+GSM329932   MILES stage 1 data N1_0302  T-ALL
+GSM331258   MILES stage 1 data N1_1622  CLL
+GSM330914   MILES stage 1 data N1_1278  AML complex aberrant karyotype
+GSM330619   MILES stage 1 data N1_0983  AML with normal karyotype + other abnormalities
+GSM330582   MILES stage 1 data N1_0946  AML with normal karyotype + other abnormalities
+GSM330287   MILES stage 1 data N1_0657  c-ALL/Pre-B-ALL without t(9;22)
+GSM331653   MILES stage 1 data N1_2017  MDS
+GSM331315   MILES stage 1 data N1_1679  CLL
+GSM331066   MILES stage 1 data N1_1430  CLL
+GSM330728   MILES stage 1 data N1_1092  AML with normal karyotype + other abnormalities
+GSM330479   MILES stage 1 data N1_0843  AML with inv(16)/t(16;16)
+GSM330473   MILES stage 1 data N1_0837  AML with inv(16)/t(16;16)
+GSM329987   MILES stage 1 data N1_0357  T-ALL
+GSM329738   MILES stage 1 data N1_0108  c-ALL/Pre-B-ALL with t(9;22)
+GSM331415   MILES stage 1 data N1_1779  CML
+GSM331409   MILES stage 1 data N1_1773  CML
+GSM331120   MILES stage 1 data N1_1484  CLL
+GSM330966   MILES stage 1 data N1_1330  CLL
+GSM330628   MILES stage 1 data N1_0992  AML with normal karyotype + other abnormalities
+GSM330425   MILES stage 1 data N1_0789  AML with t(8;21)
+GSM330087   MILES stage 1 data N1_0457  ALL with t(1;19)
+GSM330081   MILES stage 1 data N1_0451  ALL with t(1;19)
+GSM329792   MILES stage 1 data N1_0162  c-ALL/Pre-B-ALL with t(9;22)
+GSM329786   MILES stage 1 data N1_0156  c-ALL/Pre-B-ALL with t(9;22)
+GSM331607   MILES stage 1 data N1_1971  MDS
+GSM331361   MILES stage 1 data N1_1725  CLL
+GSM331020   MILES stage 1 data N1_1384  CLL
+GSM330774   MILES stage 1 data N1_1138  AML with normal karyotype + other abnormalities
+GSM330525   MILES stage 1 data N1_0889  AML with t(11q23)/MLL
+GSM330279   MILES stage 1 data N1_0649  c-ALL/Pre-B-ALL without t(9;22)
+GSM329446   MILES stage 1 data N1_0040  Pro-B-ALL with t(11q23)/MLL
+GSM331707   MILES stage 1 data N1_2071  Non-leukemia and healthy bone marrow
+GSM331461   MILES stage 1 data N1_1825  MDS
+GSM331166   MILES stage 1 data N1_1530  CLL
+GSM330920   MILES stage 1 data N1_1284  AML complex aberrant karyotype
+GSM330674   MILES stage 1 data N1_1038  AML with normal karyotype + other abnormalities
+GSM330379   MILES stage 1 data N1_0743  c-ALL/Pre-B-ALL without t(9;22)
+GSM330133   MILES stage 1 data N1_0503  ALL with hyperdiploid karyotype
+GSM329838   MILES stage 1 data N1_0208  T-ALL
+GSM331644   MILES stage 1 data N1_2008  MDS
+GSM331146   MILES stage 1 data N1_1510  CLL
+GSM330648   MILES stage 1 data N1_1012  AML with normal karyotype + other abnormalities
+GSM330150   MILES stage 1 data N1_0520  c-ALL/Pre-B-ALL without t(9;22)
+GSM329984   MILES stage 1 data N1_0354  T-ALL
+GSM329486   MILES stage 1 data N1_0080  Pro-B-ALL with t(11q23)/MLL
+GSM331667   MILES stage 1 data N1_2031  Non-leukemia and healthy bone marrow
+GSM331501   MILES stage 1 data N1_1865  MDS
+GSM331169   MILES stage 1 data N1_1533  CLL
+GSM331003   MILES stage 1 data N1_1367  CLL
+GSM330505   MILES stage 1 data N1_0869  AML with t(11q23)/MLL
+GSM330007   MILES stage 1 data N1_0377  T-ALL
+GSM331432   MILES stage 1 data N1_1796  CML
+GSM331358   MILES stage 1 data N1_1722  CLL
+GSM331195   MILES stage 1 data N1_1559  CLL
+GSM331097   MILES stage 1 data N1_1461  CLL
+GSM331026   MILES stage 1 data N1_1390  CLL
+GSM330768   MILES stage 1 data N1_1132  AML with normal karyotype + other abnormalities
+GSM330436   MILES stage 1 data N1_0800  AML with t(15;17)
+GSM330362   MILES stage 1 data N1_0726  c-ALL/Pre-B-ALL without t(9;22)
+GSM330101   MILES stage 1 data N1_0471  ALL with t(1;19)
+GSM329772   MILES stage 1 data N1_0142  c-ALL/Pre-B-ALL with t(9;22)
+GSM329437   MILES stage 1 data N1_0031  Pro-B-ALL with t(11q23)/MLL
+GSM331381   MILES stage 1 data N1_1745  CML
+GSM330840   MILES stage 1 data N1_1204  AML with normal karyotype + other abnormalities
+GSM330791   MILES stage 1 data N1_1155  AML with normal karyotype + other abnormalities
+GSM330717   MILES stage 1 data N1_1081  AML with normal karyotype + other abnormalities
+GSM330127   MILES stage 1 data N1_0497  ALL with hyperdiploid karyotype
+GSM330078   MILES stage 1 data N1_0448  ALL with t(1;19)
+GSM329795   MILES stage 1 data N1_0165  c-ALL/Pre-B-ALL with t(9;22)
+GSM329746   MILES stage 1 data N1_0116  c-ALL/Pre-B-ALL with t(9;22)
+GSM331475   MILES stage 1 data N1_1839  MDS
+GSM330983   MILES stage 1 data N1_1347  CLL
+GSM330977   MILES stage 1 data N1_1341  CLL
+GSM330811   MILES stage 1 data N1_1175  AML with normal karyotype + other abnormalities
+GSM330485   MILES stage 1 data N1_0849  AML with inv(16)/t(16;16)
+GSM330319   MILES stage 1 data N1_0683  c-ALL/Pre-B-ALL without t(9;22)
+GSM329821   MILES stage 1 data N1_0191  c-ALL/Pre-B-ALL with t(9;22)
+GSM331624   MILES stage 1 data N1_1988  MDS
+GSM331618   MILES stage 1 data N1_1982  MDS
+GSM331452   MILES stage 1 data N1_1816  CML
+GSM331126   MILES stage 1 data N1_1490  CLL
+GSM331077   MILES stage 1 data N1_1441  CLL
+GSM330960   MILES stage 1 data N1_1324  CLL
+GSM330954   MILES stage 1 data N1_1318  CLL
+GSM330911   MILES stage 1 data N1_1275  AML complex aberrant karyotype
+GSM330462   MILES stage 1 data N1_0826  AML with t(15;17)
+GSM330413   MILES stage 1 data N1_0777  AML with t(8;21)
+GSM329460   MILES stage 1 data N1_0054  Pro-B-ALL with t(11q23)/MLL
+GSM331693   MILES stage 1 data N1_2057  Non-leukemia and healthy bone marrow
+GSM331524   MILES stage 1 data N1_1888  MDS
+GSM331103   MILES stage 1 data N1_1467  CLL
+GSM330934   MILES stage 1 data N1_1298  CLL
+GSM330860   MILES stage 1 data N1_1224  AML with normal karyotype + other abnormalities
+GSM330270   MILES stage 1 data N1_0640  c-ALL/Pre-B-ALL without t(9;22)
+GSM330193   MILES stage 1 data N1_0563  c-ALL/Pre-B-ALL without t(9;22)
+GSM330883   MILES stage 1 data N1_1247  AML complex aberrant karyotype
+GSM330834   MILES stage 1 data N1_1198  AML with normal karyotype + other abnormalities
+GSM330785   MILES stage 1 data N1_1149  AML with normal karyotype + other abnormalities
+GSM330342   MILES stage 1 data N1_0706  c-ALL/Pre-B-ALL without t(9;22)
+GSM330293   MILES stage 1 data N1_0663  c-ALL/Pre-B-ALL without t(9;22)
+GSM330244   MILES stage 1 data N1_0614  c-ALL/Pre-B-ALL without t(9;22)
+GSM330170   MILES stage 1 data N1_0540  c-ALL/Pre-B-ALL without t(9;22)
+GSM330121   MILES stage 1 data N1_0491  ALL with hyperdiploid karyotype
+GSM329752   MILES stage 1 data N1_0122  c-ALL/Pre-B-ALL with t(9;22)
+GSM331638   MILES stage 1 data N1_2002  MDS
+GSM331389   MILES stage 1 data N1_1753  CML
+GSM331152   MILES stage 1 data N1_1516  CLL
+GSM331140   MILES stage 1 data N1_1504  CLL
+GSM330903   MILES stage 1 data N1_1267  AML complex aberrant karyotype
+GSM330891   MILES stage 1 data N1_1255  AML complex aberrant karyotype
+GSM330654   MILES stage 1 data N1_1018  AML with normal karyotype + other abnormalities
+GSM330642   MILES stage 1 data N1_1006  AML with normal karyotype + other abnormalities
+GSM330393   MILES stage 1 data N1_0757  AML with t(8;21)
+GSM329480   MILES stage 1 data N1_0074  Pro-B-ALL with t(11q23)/MLL
+GSM331673   MILES stage 1 data N1_2037  Non-leukemia and healthy bone marrow
+GSM331544   MILES stage 1 data N1_1908  MDS
+GSM331495   MILES stage 1 data N1_1859  MDS
+GSM331046   MILES stage 1 data N1_1410  CLL
+GSM330997   MILES stage 1 data N1_1361  CLL
+GSM330548   MILES stage 1 data N1_0912  AML with normal karyotype + other abnormalities
+GSM330499   MILES stage 1 data N1_0863  AML with t(11q23)/MLL
+GSM330050   MILES stage 1 data N1_0420  ALL with t(12;21)
+GSM330001   MILES stage 1 data N1_0371  T-ALL
+GSM329872   MILES stage 1 data N1_0242  T-ALL
+GSM331687   MILES stage 1 data N1_2051  Non-leukemia and healthy bone marrow
+GSM330940   MILES stage 1 data N1_1304  CLL
+GSM330854   MILES stage 1 data N1_1218  AML with normal karyotype + other abnormalities
+GSM330691   MILES stage 1 data N1_1055  AML with normal karyotype + other abnormalities
+GSM330605   MILES stage 1 data N1_0969  AML with normal karyotype + other abnormalities
+GSM330015   MILES stage 1 data N1_0385  ALL with t(12;21)
+GSM329858   MILES stage 1 data N1_0228  T-ALL
+GSM331332   MILES stage 1 data N1_1696  CLL
+GSM331295   MILES stage 1 data N1_1659  CLL
+GSM331246   MILES stage 1 data N1_1610  CLL
+GSM330299   MILES stage 1 data N1_0669  c-ALL/Pre-B-ALL without t(9;22)
+GSM330250   MILES stage 1 data N1_0620  c-ALL/Pre-B-ALL without t(9;22)
+GSM330213   MILES stage 1 data N1_0583  c-ALL/Pre-B-ALL without t(9;22)
+GSM331730   MILES stage 1 data N1_2094  Non-leukemia and healthy bone marrow
+GSM331487   MILES stage 1 data N1_1851  MDS
+GSM331481   MILES stage 1 data N1_1845  MDS
+GSM330556   MILES stage 1 data N1_0920  AML with normal karyotype + other abnormalities
+GSM330307   MILES stage 1 data N1_0677  c-ALL/Pre-B-ALL without t(9;22)
+GSM330064   MILES stage 1 data N1_0434  ALL with t(12;21)
+GSM330058   MILES stage 1 data N1_0428  ALL with t(12;21)
+GSM329815   MILES stage 1 data N1_0185  c-ALL/Pre-B-ALL with t(9;22)
+GSM329809   MILES stage 1 data N1_0179  c-ALL/Pre-B-ALL with t(9;22)
+GSM331630   MILES stage 1 data N1_1994  MDS
+GSM331587   MILES stage 1 data N1_1951  MDS
+GSM331581   MILES stage 1 data N1_1945  MDS
+GSM331089   MILES stage 1 data N1_1453  CLL
+GSM330456   MILES stage 1 data N1_0820  AML with t(15;17)
+GSM329964   MILES stage 1 data N1_0334  T-ALL
+GSM329958   MILES stage 1 data N1_0328  T-ALL
+GSM329915   MILES stage 1 data N1_0285  T-ALL
+GSM329466   MILES stage 1 data N1_0060  Pro-B-ALL with t(11q23)/MLL
+GSM329423   MILES stage 1 data N1_0017  Pro-B-ALL with t(11q23)/MLL
+GSM329417   MILES stage 1 data N1_0011  mature B-ALL with t(8;14)
+GSM331681   MILES stage 1 data N1_2045  Non-leukemia and healthy bone marrow
+GSM331438   MILES stage 1 data N1_1802  CML
+GSM331189   MILES stage 1 data N1_1553  CLL
+GSM330848   MILES stage 1 data N1_1212  AML with normal karyotype + other abnormalities
+GSM330599   MILES stage 1 data N1_0963  AML with normal karyotype + other abnormalities
+GSM330356   MILES stage 1 data N1_0720  c-ALL/Pre-B-ALL without t(9;22)
+GSM330107   MILES stage 1 data N1_0477  ALL with hyperdiploid karyotype
+GSM329766   MILES stage 1 data N1_0136  c-ALL/Pre-B-ALL with t(9;22)
+GSM331338   MILES stage 1 data N1_1702  CLL
+GSM331289   MILES stage 1 data N1_1653  CLL
+GSM330797   MILES stage 1 data N1_1161  AML with normal karyotype + other abnormalities
+GSM330748   MILES stage 1 data N1_1112  AML with normal karyotype + other abnormalities
+GSM330256   MILES stage 1 data N1_0626  c-ALL/Pre-B-ALL without t(9;22)
+GSM330207   MILES stage 1 data N1_0577  c-ALL/Pre-B-ALL without t(9;22)
+GSM331727   MILES stage 1 data N1_2091  Non-leukemia and healthy bone marrow
+GSM331395   MILES stage 1 data N1_1759  CML
+GSM331063   MILES stage 1 data N1_1427  CLL
+GSM330731   MILES stage 1 data N1_1095  AML with normal karyotype + other abnormalities
+GSM330399   MILES stage 1 data N1_0763  AML with t(8;21)
+GSM330067   MILES stage 1 data N1_0437  ALL with t(12;21)
+GSM329735   MILES stage 1 data N1_0105  c-ALL/Pre-B-ALL with t(9;22)
+GSM329474   MILES stage 1 data N1_0068  Pro-B-ALL with t(11q23)/MLL
+GSM331704   MILES stage 1 data N1_2068  Non-leukemia and healthy bone marrow
+GSM331372   MILES stage 1 data N1_1736  CLL
+GSM331040   MILES stage 1 data N1_1404  CLL
+GSM330708   MILES stage 1 data N1_1072  AML with normal karyotype + other abnormalities
+GSM330376   MILES stage 1 data N1_0740  c-ALL/Pre-B-ALL without t(9;22)
+GSM330161   MILES stage 1 data N1_0531  c-ALL/Pre-B-ALL without t(9;22)
+GSM330044   MILES stage 1 data N1_0414  ALL with t(12;21)
+GSM329829   MILES stage 1 data N1_0199  c-ALL/Pre-B-ALL with t(9;22)
+GSM331441   MILES stage 1 data N1_1805  CML
+GSM331109   MILES stage 1 data N1_1473  CLL
+GSM330777   MILES stage 1 data N1_1141  AML with normal karyotype + other abnormalities
+GSM330445   MILES stage 1 data N1_0809  AML with t(15;17)
+GSM330113   MILES stage 1 data N1_0483  ALL with hyperdiploid karyotype
+GSM331418   MILES stage 1 data N1_1782  CML
+GSM331086   MILES stage 1 data N1_1450  CLL
+GSM330754   MILES stage 1 data N1_1118  AML with normal karyotype + other abnormalities
+GSM330422   MILES stage 1 data N1_0786  AML with t(8;21)
+GSM330090   MILES stage 1 data N1_0460  ALL with t(1;19)
+GSM329758   MILES stage 1 data N1_0128  c-ALL/Pre-B-ALL with t(9;22)
+GSM329426   MILES stage 1 data N1_0020  Pro-B-ALL with t(11q23)/MLL
+GSM331232   MILES stage 1 data N1_1596  CLL
+GSM331226   MILES stage 1 data N1_1590  CLL
+GSM330568   MILES stage 1 data N1_0932  AML with normal karyotype + other abnormalities
+GSM330562   MILES stage 1 data N1_0926  AML with normal karyotype + other abnormalities
+GSM329975   MILES stage 1 data N1_0345  T-ALL
+GSM329904   MILES stage 1 data N1_0274  T-ALL
+GSM329898   MILES stage 1 data N1_0268  T-ALL
+GSM331255   MILES stage 1 data N1_1619  CLL
+GSM331249   MILES stage 1 data N1_1613  CLL
+GSM331132   MILES stage 1 data N1_1496  CLL
+GSM330591   MILES stage 1 data N1_0955  AML with normal karyotype + other abnormalities
+GSM330585   MILES stage 1 data N1_0949  AML with normal karyotype + other abnormalities
+GSM329921   MILES stage 1 data N1_0291  T-ALL
+GSM331349   MILES stage 1 data N1_1713  CLL
+GSM331278   MILES stage 1 data N1_1642  CLL
+GSM330685   MILES stage 1 data N1_1049  AML with normal karyotype + other abnormalities
+GSM330516   MILES stage 1 data N1_0880  AML with t(11q23)/MLL
+GSM330021   MILES stage 1 data N1_0391  ALL with t(12;21)
+GSM329852   MILES stage 1 data N1_0222  T-ALL
+GSM331424   MILES stage 1 data N1_1788  CML
+GSM331326   MILES stage 1 data N1_1690  CLL
+GSM331203   MILES stage 1 data N1_1567  CLL
+GSM330662   MILES stage 1 data N1_1026  AML with normal karyotype + other abnormalities
+GSM330539   MILES stage 1 data N1_0903  AML with normal karyotype + other abnormalities
+GSM329998   MILES stage 1 data N1_0368  T-ALL
+GSM329875   MILES stage 1 data N1_0245  T-ALL
+GSM331650   MILES stage 1 data N1_2014  MDS
+GSM331472   MILES stage 1 data N1_1836  MDS
+GSM331401   MILES stage 1 data N1_1765  CML
+GSM331318   MILES stage 1 data N1_1682  CLL
+GSM331069   MILES stage 1 data N1_1433  CLL
+GSM331057   MILES stage 1 data N1_1421  CLL
+GSM330725   MILES stage 1 data N1_1089  AML with normal karyotype + other abnormalities
+GSM330476   MILES stage 1 data N1_0840  AML with inv(16)/t(16;16)
+GSM330144   MILES stage 1 data N1_0514  c-ALL/Pre-B-ALL without t(9;22)
+GSM329729   MILES stage 1 data N1_0099  c-ALL/Pre-B-ALL with t(9;22)
+GSM331710   MILES stage 1 data N1_2074  Non-leukemia and healthy bone marrow
+GSM331163   MILES stage 1 data N1_1527  CLL
+GSM330831   MILES stage 1 data N1_1195  AML with normal karyotype + other abnormalities
+GSM330714   MILES stage 1 data N1_1078  AML with normal karyotype + other abnormalities
+GSM330382   MILES stage 1 data N1_0746  c-ALL/Pre-B-ALL without t(9;22)
+GSM330370   MILES stage 1 data N1_0734  c-ALL/Pre-B-ALL without t(9;22)
+GSM330038   MILES stage 1 data N1_0408  ALL with t(12;21)
+GSM329835   MILES stage 1 data N1_0205  c-ALL/Pre-B-ALL with t(9;22)
+GSM331604   MILES stage 1 data N1_1968  MDS
+GSM331518   MILES stage 1 data N1_1882  MDS
+GSM331355   MILES stage 1 data N1_1719  CLL
+GSM331272   MILES stage 1 data N1_1636  CLL
+GSM331023   MILES stage 1 data N1_1387  CLL
+GSM330522   MILES stage 1 data N1_0886  AML with t(11q23)/MLL
+GSM330276   MILES stage 1 data N1_0646  c-ALL/Pre-B-ALL without t(9;22)
+GSM330190   MILES stage 1 data N1_0560  c-ALL/Pre-B-ALL without t(9;22)
+GSM330027   MILES stage 1 data N1_0397  ALL with t(12;21)
+GSM329944   MILES stage 1 data N1_0314  T-ALL
+GSM331664   MILES stage 1 data N1_2028  Non-leukemia and healthy bone marrow
+GSM331209   MILES stage 1 data N1_1573  CLL
+GSM330963   MILES stage 1 data N1_1327  CLL
+GSM330877   MILES stage 1 data N1_1241  AML complex aberrant karyotype
+GSM330668   MILES stage 1 data N1_1032  AML with normal karyotype + other abnormalities
+GSM330631   MILES stage 1 data N1_0995  AML with normal karyotype + other abnormalities
+GSM330336   MILES stage 1 data N1_0700  c-ALL/Pre-B-ALL without t(9;22)
+GSM329881   MILES stage 1 data N1_0251  T-ALL
+GSM331564   MILES stage 1 data N1_1928  MDS
+GSM331558   MILES stage 1 data N1_1922  MDS
+GSM331309   MILES stage 1 data N1_1673  CLL
+GSM330817   MILES stage 1 data N1_1181  AML with normal karyotype + other abnormalities
+GSM330236   MILES stage 1 data N1_0606  c-ALL/Pre-B-ALL without t(9;22)
+GSM330230   MILES stage 1 data N1_0600  c-ALL/Pre-B-ALL without t(9;22)
+GSM329981   MILES stage 1 data N1_0351  T-ALL
+GSM329892   MILES stage 1 data N1_0262  T-ALL
+GSM329489   MILES stage 1 data N1_0083  Pro-B-ALL with t(11q23)/MLL
+GSM331464   MILES stage 1 data N1_1828  MDS
+GSM331458   MILES stage 1 data N1_1822  MDS
+GSM330923   MILES stage 1 data N1_1287  AML complex aberrant karyotype
+GSM330917   MILES stage 1 data N1_1281  AML complex aberrant karyotype
+GSM330622   MILES stage 1 data N1_0986  AML with normal karyotype + other abnormalities
+GSM330579   MILES stage 1 data N1_0943  AML with normal karyotype + other abnormalities
+GSM330130   MILES stage 1 data N1_0500  ALL with hyperdiploid karyotype
+GSM331610   MILES stage 1 data N1_1974  MDS
+GSM331266   MILES stage 1 data N1_1630  CLL
+GSM331017   MILES stage 1 data N1_1381  CLL
+GSM330771   MILES stage 1 data N1_1135  AML with normal karyotype + other abnormalities
+GSM330528   MILES stage 1 data N1_0892  AML with t(11q23)/MLL
+GSM330184   MILES stage 1 data N1_0554  c-ALL/Pre-B-ALL without t(9;22)
+GSM329938   MILES stage 1 data N1_0308  T-ALL
+GSM329935   MILES stage 1 data N1_0305  T-ALL
+GSM329443   MILES stage 1 data N1_0037  Pro-B-ALL with t(11q23)/MLL
+GSM331412   MILES stage 1 data N1_1776  CML
+GSM331215   MILES stage 1 data N1_1579  CLL
+GSM330871   MILES stage 1 data N1_1235  AML with normal karyotype + other abnormalities
+GSM330625   MILES stage 1 data N1_0989  AML with normal karyotype + other abnormalities
+GSM330330   MILES stage 1 data N1_0694  c-ALL/Pre-B-ALL without t(9;22)
+GSM330084   MILES stage 1 data N1_0454  ALL with t(1;19)
+GSM329789   MILES stage 1 data N1_0159  c-ALL/Pre-B-ALL with t(9;22)
+GSM331478   MILES stage 1 data N1_1842  MDS
+GSM331312   MILES stage 1 data N1_1676  CLL
+GSM330980   MILES stage 1 data N1_1344  CLL
+GSM330814   MILES stage 1 data N1_1178  AML with normal karyotype + other abnormalities
+GSM330482   MILES stage 1 data N1_0846  AML with inv(16)/t(16;16)
+GSM329818   MILES stage 1 data N1_0188  c-ALL/Pre-B-ALL with t(9;22)
+GSM331335   MILES stage 1 data N1_1699  CLL
+GSM330837   MILES stage 1 data N1_1201  AML with normal karyotype + other abnormalities
+GSM330671   MILES stage 1 data N1_1035  AML with normal karyotype + other abnormalities
+GSM330339   MILES stage 1 data N1_0703  c-ALL/Pre-B-ALL without t(9;22)
+GSM330173   MILES stage 1 data N1_0543  c-ALL/Pre-B-ALL without t(9;22)
+GSM329841   MILES stage 1 data N1_0211  T-ALL
+GSM331690   MILES stage 1 data N1_2054  Non-leukemia and healthy bone marrow
+GSM331527   MILES stage 1 data N1_1891  MDS
+GSM331100   MILES stage 1 data N1_1464  CLL
+GSM330765   MILES stage 1 data N1_1129  AML with normal karyotype + other abnormalities
+GSM330694   MILES stage 1 data N1_1058  AML with normal karyotype + other abnormalities
+GSM330433   MILES stage 1 data N1_0797  AML with t(15;17)
+GSM330104   MILES stage 1 data N1_0474  ALL with hyperdiploid karyotype
+GSM330030   MILES stage 1 data N1_0400  ALL with t(12;21)
+GSM329769   MILES stage 1 data N1_0139  c-ALL/Pre-B-ALL with t(9;22)
+GSM329440   MILES stage 1 data N1_0034  Pro-B-ALL with t(11q23)/MLL
+GSM331713   MILES stage 1 data N1_2077  Non-leukemia and healthy bone marrow
+GSM331504   MILES stage 1 data N1_1868  MDS
+GSM331455   MILES stage 1 data N1_1819  MDS
+GSM331172   MILES stage 1 data N1_1536  CLL
+GSM331123   MILES stage 1 data N1_1487  CLL
+GSM331049   MILES stage 1 data N1_1413  CLL
+GSM330508   MILES stage 1 data N1_0872  AML with t(11q23)/MLL
+GSM330459   MILES stage 1 data N1_0823  AML with t(15;17)
+GSM329463   MILES stage 1 data N1_0057  Pro-B-ALL with t(11q23)/MLL
+GSM329414   MILES stage 1 data N1_0008  mature B-ALL with t(8;14)
+GSM331647   MILES stage 1 data N1_2011  MDS
+GSM331641   MILES stage 1 data N1_2005  MDS
+GSM331570   MILES stage 1 data N1_1934  MDS
+GSM331149   MILES stage 1 data N1_1513  CLL
+GSM330390   MILES stage 1 data N1_0754  AML with t(8;21)
+GSM330224   MILES stage 1 data N1_0594  c-ALL/Pre-B-ALL without t(9;22)
+GSM330147   MILES stage 1 data N1_0517  c-ALL/Pre-B-ALL without t(9;22)
+GSM329726   MILES stage 1 data N1_0096  c-ALL/Pre-B-ALL with t(9;22)
+GSM329483   MILES stage 1 data N1_0077  Pro-B-ALL with t(11q23)/MLL
+GSM330788   MILES stage 1 data N1_1152  AML with normal karyotype + other abnormalities
+GSM330296   MILES stage 1 data N1_0666  c-ALL/Pre-B-ALL without t(9;22)
+GSM330290   MILES stage 1 data N1_0660  c-ALL/Pre-B-ALL without t(9;22)
+GSM330247   MILES stage 1 data N1_0617  c-ALL/Pre-B-ALL without t(9;22)
+GSM330124   MILES stage 1 data N1_0494  ALL with hyperdiploid karyotype
+GSM329798   MILES stage 1 data N1_0168  c-ALL/Pre-B-ALL with t(9;22)
+GSM329749   MILES stage 1 data N1_0119  c-ALL/Pre-B-ALL with t(9;22)
+GSM331598   MILES stage 1 data N1_1962  MDS
+GSM331521   MILES stage 1 data N1_1885  MDS
+GSM331029   MILES stage 1 data N1_1393  CLL
+GSM330931   MILES stage 1 data N1_1295  CLL
+GSM330857   MILES stage 1 data N1_1221  AML with normal karyotype + other abnormalities
+GSM330439   MILES stage 1 data N1_0803  AML with t(15;17)
+GSM330267   MILES stage 1 data N1_0637  c-ALL/Pre-B-ALL without t(9;22)
+GSM330196   MILES stage 1 data N1_0566  c-ALL/Pre-B-ALL without t(9;22)
+GSM330098   MILES stage 1 data N1_0468  ALL with t(1;19)
+GSM329775   MILES stage 1 data N1_0145  c-ALL/Pre-B-ALL with t(9;22)
+GSM329434   MILES stage 1 data N1_0028  Pro-B-ALL with t(11q23)/MLL
+GSM331670   MILES stage 1 data N1_2034  Non-leukemia and healthy bone marrow
+GSM331621   MILES stage 1 data N1_1985  MDS
+GSM331547   MILES stage 1 data N1_1911  MDS
+GSM331498   MILES stage 1 data N1_1862  MDS
+GSM331080   MILES stage 1 data N1_1444  CLL
+GSM331006   MILES stage 1 data N1_1370  CLL
+GSM330957   MILES stage 1 data N1_1321  CLL
+GSM330416   MILES stage 1 data N1_0780  AML with t(8;21)
+GSM329457   MILES stage 1 data N1_0051  Pro-B-ALL with t(11q23)/MLL
+GSM331484   MILES stage 1 data N1_1848  MDS
+GSM331235   MILES stage 1 data N1_1599  CLL
+GSM330986   MILES stage 1 data N1_1350  CLL
+GSM330808   MILES stage 1 data N1_1172  AML with normal karyotype + other abnormalities
+GSM330737   MILES stage 1 data N1_1101  AML with normal karyotype + other abnormalities
+GSM330559   MILES stage 1 data N1_0923  AML with normal karyotype + other abnormalities
+GSM330310   MILES stage 1 data N1_0680  c-ALL/Pre-B-ALL without t(9;22)
+GSM330061   MILES stage 1 data N1_0431  ALL with t(12;21)
+GSM329812   MILES stage 1 data N1_0182  c-ALL/Pre-B-ALL with t(9;22)
+GSM331378   MILES stage 1 data N1_1742  CML
+GSM331341   MILES stage 1 data N1_1705  CLL
+GSM331329   MILES stage 1 data N1_1693  CLL
+GSM330702   MILES stage 1 data N1_1066  AML with normal karyotype + other abnormalities
+GSM330216   MILES stage 1 data N1_0586  c-ALL/Pre-B-ALL without t(9;22)
+GSM330204   MILES stage 1 data N1_0574  c-ALL/Pre-B-ALL without t(9;22)
+GSM330167   MILES stage 1 data N1_0537  c-ALL/Pre-B-ALL without t(9;22)
+GSM329718   MILES stage 1 data N1_0088  c-ALL/Pre-B-ALL with t(9;22)
+GSM331186   MILES stage 1 data N1_1550  CLL
+GSM330937   MILES stage 1 data N1_1301  CLL
+GSM330608   MILES stage 1 data N1_0972  AML with normal karyotype + other abnormalities
+GSM330359   MILES stage 1 data N1_0723  c-ALL/Pre-B-ALL without t(9;22)
+GSM331627   MILES stage 1 data N1_1991  MDS
+GSM331590   MILES stage 1 data N1_1954  MDS
+GSM331578   MILES stage 1 data N1_1942  MDS
+GSM331541   MILES stage 1 data N1_1905  MDS
+GSM331000   MILES stage 1 data N1_1364  CLL
+GSM330545   MILES stage 1 data N1_0909  AML with normal karyotype + other abnormalities
+GSM330004   MILES stage 1 data N1_0374  T-ALL
+GSM329967   MILES stage 1 data N1_0337  T-ALL
+GSM329955   MILES stage 1 data N1_0325  T-ALL
+GSM329918   MILES stage 1 data N1_0288  T-ALL
+GSM331392   MILES stage 1 data N1_1756  CML
+GSM331143   MILES stage 1 data N1_1507  CLL
+GSM330900   MILES stage 1 data N1_1264  AML complex aberrant karyotype
+GSM330894   MILES stage 1 data N1_1258  AML complex aberrant karyotype
+GSM330651   MILES stage 1 data N1_1015  AML with normal karyotype + other abnormalities
+GSM330645   MILES stage 1 data N1_1009  AML with normal karyotype + other abnormalities
+GSM330402   MILES stage 1 data N1_0766  AML with t(8;21)
+GSM330153   MILES stage 1 data N1_0523  c-ALL/Pre-B-ALL without t(9;22)
+GSM331292   MILES stage 1 data N1_1656  CLL
+GSM331286   MILES stage 1 data N1_1650  CLL
+GSM331243   MILES stage 1 data N1_1607  CLL
+GSM330800   MILES stage 1 data N1_1164  AML with normal karyotype + other abnormalities
+GSM330794   MILES stage 1 data N1_1158  AML with normal karyotype + other abnormalities
+GSM330751   MILES stage 1 data N1_1115  AML with normal karyotype + other abnormalities
+GSM330745   MILES stage 1 data N1_1109  AML with normal karyotype + other abnormalities
+GSM330259   MILES stage 1 data N1_0629  c-ALL/Pre-B-ALL without t(9;22)
+GSM330253   MILES stage 1 data N1_0623  c-ALL/Pre-B-ALL without t(9;22)
+GSM331684   MILES stage 1 data N1_2048  Non-leukemia and healthy bone marrow
+GSM331435   MILES stage 1 data N1_1799  CML
+GSM331192   MILES stage 1 data N1_1556  CLL
+GSM330943   MILES stage 1 data N1_1307  CLL
+GSM330602   MILES stage 1 data N1_0966  AML with normal karyotype + other abnormalities
+GSM330353   MILES stage 1 data N1_0717  c-ALL/Pre-B-ALL without t(9;22)
+GSM330110   MILES stage 1 data N1_0480  ALL with hyperdiploid karyotype
+GSM329861   MILES stage 1 data N1_0231  T-ALL
+GSM331584   MILES stage 1 data N1_1948  MDS
+GSM331535   MILES stage 1 data N1_1899  MDS
+GSM331043   MILES stage 1 data N1_1407  CLL
+GSM330994   MILES stage 1 data N1_1358  CLL
+GSM330502   MILES stage 1 data N1_0866  AML with t(11q23)/MLL
+GSM330453   MILES stage 1 data N1_0817  AML with t(15;17)
+GSM329961   MILES stage 1 data N1_0331  T-ALL
+GSM329912   MILES stage 1 data N1_0282  T-ALL
+GSM329420   MILES stage 1 data N1_0014  Pro-B-ALL with t(11q23)/MLL
+GSM331490   MILES stage 1 data N1_1854  MDS
+GSM331419   MILES stage 1 data N1_1783  CML
+GSM331158   MILES stage 1 data N1_1522  CLL
+GSM330826   MILES stage 1 data N1_1190  AML with normal karyotype + other abnormalities
+GSM330494   MILES stage 1 data N1_0858  AML with t(11q23)/MLL
+GSM330162   MILES stage 1 data N1_0532  c-ALL/Pre-B-ALL without t(9;22)
+GSM329830   MILES stage 1 data N1_0200  c-ALL/Pre-B-ALL with t(9;22)
+GSM331728   MILES stage 1 data N1_2092  Non-leukemia and healthy bone marrow
+GSM331513   MILES stage 1 data N1_1877  MDS
+GSM331396   MILES stage 1 data N1_1760  CML
+GSM331181   MILES stage 1 data N1_1545  CLL
+GSM331064   MILES stage 1 data N1_1428  CLL
+GSM330849   MILES stage 1 data N1_1213  AML with normal karyotype + other abnormalities
+GSM330732   MILES stage 1 data N1_1096  AML with normal karyotype + other abnormalities
+GSM330517   MILES stage 1 data N1_0881  AML with t(11q23)/MLL
+GSM330185   MILES stage 1 data N1_0555  c-ALL/Pre-B-ALL without t(9;22)
+GSM329853   MILES stage 1 data N1_0223  T-ALL
+GSM330780   MILES stage 1 data N1_1144  AML with normal karyotype + other abnormalities
+GSM330448   MILES stage 1 data N1_0812  AML with t(15;17)
+GSM330116   MILES stage 1 data N1_0486  ALL with hyperdiploid karyotype
+GSM329784   MILES stage 1 data N1_0154  c-ALL/Pre-B-ALL with t(9;22)
+GSM329452   MILES stage 1 data N1_0046  Pro-B-ALL with t(11q23)/MLL
+GSM331467   MILES stage 1 data N1_1831  MDS
+GSM331135   MILES stage 1 data N1_1499  CLL
+GSM330803   MILES stage 1 data N1_1167  AML with normal karyotype + other abnormalities
+GSM330471   MILES stage 1 data N1_0835  AML with inv(16)/t(16;16)
+GSM330139   MILES stage 1 data N1_0509  ALL with hyperdiploid karyotype
+GSM329807   MILES stage 1 data N1_0177  c-ALL/Pre-B-ALL with t(9;22)
+GSM329475   MILES stage 1 data N1_0069  Pro-B-ALL with t(11q23)/MLL
+GSM331327   MILES stage 1 data N1_1691  CLL
+GSM331321   MILES stage 1 data N1_1685  CLL
+GSM331250   MILES stage 1 data N1_1614  CLL
+GSM330663   MILES stage 1 data N1_1027  AML with normal karyotype + other abnormalities
+GSM330657   MILES stage 1 data N1_1021  AML with normal karyotype + other abnormalities
+GSM330586   MILES stage 1 data N1_0950  AML with normal karyotype + other abnormalities
+GSM329999   MILES stage 1 data N1_0369  T-ALL
+GSM329993   MILES stage 1 data N1_0363  T-ALL
+GSM331304   MILES stage 1 data N1_1668  CLL
+GSM331273   MILES stage 1 data N1_1637  CLL
+GSM330640   MILES stage 1 data N1_1004  AML with normal karyotype + other abnormalities
+GSM330634   MILES stage 1 data N1_0998  AML with normal karyotype + other abnormalities
+GSM330093   MILES stage 1 data N1_0463  ALL with t(1;19)
+GSM329976   MILES stage 1 data N1_0346  T-ALL
+GSM329970   MILES stage 1 data N1_0340  T-ALL
+GSM329429   MILES stage 1 data N1_0023  Pro-B-ALL with t(11q23)/MLL
+GSM331373   MILES stage 1 data N1_1737  CLL
+GSM331204   MILES stage 1 data N1_1568  CLL
+GSM330709   MILES stage 1 data N1_1073  AML with normal karyotype + other abnormalities
+GSM330540   MILES stage 1 data N1_0904  AML with normal karyotype + other abnormalities
+GSM330045   MILES stage 1 data N1_0415  ALL with t(12;21)
+GSM329876   MILES stage 1 data N1_0246  T-ALL
+GSM331350   MILES stage 1 data N1_1714  CLL
+GSM331227   MILES stage 1 data N1_1591  CLL
+GSM330686   MILES stage 1 data N1_1050  AML with normal karyotype + other abnormalities
+GSM330563   MILES stage 1 data N1_0927  AML with normal karyotype + other abnormalities
+GSM330022   MILES stage 1 data N1_0392  ALL with t(12;21)
+GSM329899   MILES stage 1 data N1_0269  T-ALL
+GSM331413   MILES stage 1 data N1_1777  CML
+GSM331164   MILES stage 1 data N1_1528  CLL
+GSM330832   MILES stage 1 data N1_1196  AML with normal karyotype + other abnormalities
+GSM330417   MILES stage 1 data N1_0781  AML with t(8;21)
+GSM330239   MILES stage 1 data N1_0609  c-ALL/Pre-B-ALL without t(9;22)
+GSM330085   MILES stage 1 data N1_0455  ALL with t(1;19)
+GSM329836   MILES stage 1 data N1_0206  T-ALL
+GSM331519   MILES stage 1 data N1_1883  MDS
+GSM331175   MILES stage 1 data N1_1539  CLL
+GSM331058   MILES stage 1 data N1_1422  CLL
+GSM330726   MILES stage 1 data N1_1090  AML with normal karyotype + other abnormalities
+GSM330523   MILES stage 1 data N1_0887  AML with t(11q23)/MLL
+GSM330191   MILES stage 1 data N1_0561  c-ALL/Pre-B-ALL without t(9;22)
+GSM330179   MILES stage 1 data N1_0549  c-ALL/Pre-B-ALL without t(9;22)
+GSM329847   MILES stage 1 data N1_0217  T-ALL
+GSM329730   MILES stage 1 data N1_0100  c-ALL/Pre-B-ALL with t(9;22)
+GSM331699   MILES stage 1 data N1_2063  Non-leukemia and healthy bone marrow
+GSM331613   MILES stage 1 data N1_1977  MDS
+GSM331367   MILES stage 1 data N1_1731  CLL
+GSM331210   MILES stage 1 data N1_1574  CLL
+GSM330878   MILES stage 1 data N1_1242  AML complex aberrant karyotype
+GSM330866   MILES stage 1 data N1_1230  AML with normal karyotype + other abnormalities
+GSM330617   MILES stage 1 data N1_0981  AML with normal karyotype + other abnormalities
+GSM330534   MILES stage 1 data N1_0898  AML with normal karyotype + other abnormalities
+GSM330371   MILES stage 1 data N1_0735  c-ALL/Pre-B-ALL without t(9;22)
+GSM330285   MILES stage 1 data N1_0655  c-ALL/Pre-B-ALL without t(9;22)
+GSM330039   MILES stage 1 data N1_0409  ALL with t(12;21)
+GSM331565   MILES stage 1 data N1_1929  MDS
+GSM331553   MILES stage 1 data N1_1917  MDS
+GSM331356   MILES stage 1 data N1_1720  CLL
+GSM331221   MILES stage 1 data N1_1585  CLL
+GSM331012   MILES stage 1 data N1_1376  CLL
+GSM330926   MILES stage 1 data N1_1290  AML complex aberrant karyotype
+GSM330680   MILES stage 1 data N1_1044  AML with normal karyotype + other abnormalities
+GSM330225   MILES stage 1 data N1_0595  c-ALL/Pre-B-ALL without t(9;22)
+GSM329930   MILES stage 1 data N1_0300  T-ALL
+GSM329893   MILES stage 1 data N1_0263  T-ALL
+GSM331659   MILES stage 1 data N1_2023  MDS
+GSM331072   MILES stage 1 data N1_1436  CLL
+GSM330918   MILES stage 1 data N1_1282  AML complex aberrant karyotype
+GSM330669   MILES stage 1 data N1_1033  AML with normal karyotype + other abnormalities
+GSM330580   MILES stage 1 data N1_0944  AML with normal karyotype + other abnormalities
+GSM330331   MILES stage 1 data N1_0695  c-ALL/Pre-B-ALL without t(9;22)
+GSM330325   MILES stage 1 data N1_0689  c-ALL/Pre-B-ALL without t(9;22)
+GSM329744   MILES stage 1 data N1_0114  c-ALL/Pre-B-ALL with t(9;22)
+GSM331605   MILES stage 1 data N1_1969  MDS
+GSM331310   MILES stage 1 data N1_1674  CLL
+GSM331267   MILES stage 1 data N1_1631  CLL
+GSM330972   MILES stage 1 data N1_1336  CLL
+GSM330431   MILES stage 1 data N1_0795  AML with t(15;17)
+GSM329982   MILES stage 1 data N1_0352  T-ALL
+GSM329939   MILES stage 1 data N1_0309  T-ALL
+GSM331705   MILES stage 1 data N1_2069  Non-leukemia and healthy bone marrow
+GSM331459   MILES stage 1 data N1_1823  MDS
+GSM331118   MILES stage 1 data N1_1482  CLL
+GSM330872   MILES stage 1 data N1_1236  AML with normal karyotype + other abnormalities
+GSM330623   MILES stage 1 data N1_0987  AML with normal karyotype + other abnormalities
+GSM330626   MILES stage 1 data N1_0990  AML with normal karyotype + other abnormalities
+GSM330377   MILES stage 1 data N1_0741  c-ALL/Pre-B-ALL without t(9;22)
+GSM330033   MILES stage 1 data N1_0403  ALL with t(12;21)
+GSM329790   MILES stage 1 data N1_0160  c-ALL/Pre-B-ALL with t(9;22)
+GSM331559   MILES stage 1 data N1_1923  MDS
+GSM331313   MILES stage 1 data N1_1677  CLL
+GSM331264   MILES stage 1 data N1_1628  CLL
+GSM331018   MILES stage 1 data N1_1382  CLL
+GSM330772   MILES stage 1 data N1_1136  AML with normal karyotype + other abnormalities
+GSM330477   MILES stage 1 data N1_0841  AML with inv(16)/t(16;16)
+GSM330231   MILES stage 1 data N1_0601  c-ALL/Pre-B-ALL without t(9;22)
+GSM329936   MILES stage 1 data N1_0306  T-ALL
+GSM331573   MILES stage 1 data N1_1937  MDS
+GSM331407   MILES stage 1 data N1_1771  CML
+GSM331336   MILES stage 1 data N1_1700  CLL
+GSM331075   MILES stage 1 data N1_1439  CLL
+GSM330909   MILES stage 1 data N1_1273  AML complex aberrant karyotype
+GSM330577   MILES stage 1 data N1_0941  AML with normal karyotype + other abnormalities
+GSM330411   MILES stage 1 data N1_0775  AML with t(8;21)
+GSM329913   MILES stage 1 data N1_0283  T-ALL
+GSM329415   MILES stage 1 data N1_0009  mature B-ALL with t(8;14)
+GSM331716   MILES stage 1 data N1_2080  Non-leukemia and healthy bone marrow
+GSM331550   MILES stage 1 data N1_1914  MDS
+GSM331218   MILES stage 1 data N1_1582  CLL
+GSM331052   MILES stage 1 data N1_1416  CLL
+GSM330554   MILES stage 1 data N1_0918  AML with normal karyotype + other abnormalities
+GSM330056   MILES stage 1 data N1_0426  ALL with t(12;21)
+GSM331456   MILES stage 1 data N1_1820  MDS
+GSM331124   MILES stage 1 data N1_1488  CLL
+GSM330789   MILES stage 1 data N1_1153  AML with normal karyotype + other abnormalities
+GSM330460   MILES stage 1 data N1_0824  AML with t(15;17)
+GSM330199   MILES stage 1 data N1_0569  c-ALL/Pre-B-ALL without t(9;22)
+GSM330125   MILES stage 1 data N1_0495  ALL with hyperdiploid karyotype
+GSM329793   MILES stage 1 data N1_0163  c-ALL/Pre-B-ALL with t(9;22)
+GSM331479   MILES stage 1 data N1_1843  MDS
+GSM331430   MILES stage 1 data N1_1794  CML
+GSM330815   MILES stage 1 data N1_1179  AML with normal karyotype + other abnormalities
+GSM330766   MILES stage 1 data N1_1130  AML with normal karyotype + other abnormalities
+GSM330434   MILES stage 1 data N1_0798  AML with t(15;17)
+GSM330385   MILES stage 1 data N1_0749  c-ALL/Pre-B-ALL without t(9;22)
+GSM330176   MILES stage 1 data N1_0546  c-ALL/Pre-B-ALL without t(9;22)
+GSM329844   MILES stage 1 data N1_0214  T-ALL
+GSM329770   MILES stage 1 data N1_0140  c-ALL/Pre-B-ALL with t(9;22)
+GSM329721   MILES stage 1 data N1_0091  c-ALL/Pre-B-ALL with t(9;22)
+GSM331665   MILES stage 1 data N1_2029  Non-leukemia and healthy bone marrow
+GSM331499   MILES stage 1 data N1_1863  MDS
+GSM331001   MILES stage 1 data N1_1365  CLL
+GSM330740   MILES stage 1 data N1_1104  AML with normal karyotype + other abnormalities
+GSM330248   MILES stage 1 data N1_0618  c-ALL/Pre-B-ALL without t(9;22)
+GSM330242   MILES stage 1 data N1_0612  c-ALL/Pre-B-ALL without t(9;22)
+GSM330076   MILES stage 1 data N1_0446  ALL with t(1;19)
+GSM329750   MILES stage 1 data N1_0120  c-ALL/Pre-B-ALL with t(9;22)
+GSM331648   MILES stage 1 data N1_2012  MDS
+GSM331642   MILES stage 1 data N1_2006  MDS
+GSM331599   MILES stage 1 data N1_1963  MDS
+GSM331593   MILES stage 1 data N1_1957  MDS
+GSM331101   MILES stage 1 data N1_1465  CLL
+GSM330148   MILES stage 1 data N1_0518  c-ALL/Pre-B-ALL without t(9;22)
+GSM330099   MILES stage 1 data N1_0469  ALL with t(1;19)
+GSM329484   MILES stage 1 data N1_0078  Pro-B-ALL with t(11q23)/MLL
+GSM329435   MILES stage 1 data N1_0029  Pro-B-ALL with t(11q23)/MLL
+GSM331622   MILES stage 1 data N1_1986  MDS
+GSM331450   MILES stage 1 data N1_1814  CML
+GSM331032   MILES stage 1 data N1_1396  CLL
+GSM330958   MILES stage 1 data N1_1322  CLL
+GSM330368   MILES stage 1 data N1_0732  c-ALL/Pre-B-ALL without t(9;22)
+GSM330291   MILES stage 1 data N1_0661  c-ALL/Pre-B-ALL without t(9;22)
+GSM329458   MILES stage 1 data N1_0052  Pro-B-ALL with t(11q23)/MLL
+GSM331522   MILES stage 1 data N1_1886  MDS
+GSM331473   MILES stage 1 data N1_1837  MDS
+GSM330981   MILES stage 1 data N1_1345  CLL
+GSM330932   MILES stage 1 data N1_1296  CLL
+GSM330809   MILES stage 1 data N1_1173  AML with normal karyotype + other abnormalities
+GSM330440   MILES stage 1 data N1_0804  AML with t(15;17)
+GSM330391   MILES stage 1 data N1_0755  AML with t(8;21)
+GSM330268   MILES stage 1 data N1_0638  c-ALL/Pre-B-ALL without t(9;22)
+GSM330219   MILES stage 1 data N1_0589  c-ALL/Pre-B-ALL without t(9;22)
+GSM329727   MILES stage 1 data N1_0097  c-ALL/Pre-B-ALL with t(9;22)
+GSM329409   MILES stage 1 data N1_0003  mature B-ALL with t(8;14)
+GSM331579   MILES stage 1 data N1_1943  MDS
+GSM331330   MILES stage 1 data N1_1694  CLL
+GSM331081   MILES stage 1 data N1_1445  CLL
+GSM330405   MILES stage 1 data N1_0769  AML with t(8;21)
+GSM330168   MILES stage 1 data N1_0538  c-ALL/Pre-B-ALL without t(9;22)
+GSM330156   MILES stage 1 data N1_0526  c-ALL/Pre-B-ALL without t(9;22)
+GSM329919   MILES stage 1 data N1_0289  T-ALL
+GSM329907   MILES stage 1 data N1_0277  T-ALL
+GSM329421   MILES stage 1 data N1_0015  Pro-B-ALL with t(11q23)/MLL
+GSM331722   MILES stage 1 data N1_2086  Non-leukemia and healthy bone marrow
+GSM331685   MILES stage 1 data N1_2049  Non-leukemia and healthy bone marrow
+GSM331187   MILES stage 1 data N1_1551  CLL
+GSM330689   MILES stage 1 data N1_1053  AML with normal karyotype + other abnormalities
+GSM330560   MILES stage 1 data N1_0924  AML with normal karyotype + other abnormalities
+GSM330511   MILES stage 1 data N1_0875  AML with t(11q23)/MLL
+GSM330062   MILES stage 1 data N1_0432  ALL with t(12;21)
+GSM330013   MILES stage 1 data N1_0383  ALL with t(12;21)
+GSM331542   MILES stage 1 data N1_1906  MDS
+GSM331530   MILES stage 1 data N1_1894  MDS
+GSM331293   MILES stage 1 data N1_1657  CLL
+GSM331281   MILES stage 1 data N1_1645  CLL
+GSM330952   MILES stage 1 data N1_1316  CLL
+GSM330703   MILES stage 1 data N1_1067  AML with normal karyotype + other abnormalities
+GSM329956   MILES stage 1 data N1_0326  T-ALL
+GSM329870   MILES stage 1 data N1_0240  T-ALL
+GSM331344   MILES stage 1 data N1_1708  CLL
+GSM330938   MILES stage 1 data N1_1302  CLL
+GSM330889   MILES stage 1 data N1_1253  AML complex aberrant karyotype
+GSM330348   MILES stage 1 data N1_0712  c-ALL/Pre-B-ALL without t(9;22)
+GSM330262   MILES stage 1 data N1_0632  c-ALL/Pre-B-ALL without t(9;22)
+GSM331244   MILES stage 1 data N1_1608  CLL
+GSM331238   MILES stage 1 data N1_1602  CLL
+GSM330995   MILES stage 1 data N1_1359  CLL
+GSM330989   MILES stage 1 data N1_1353  CLL
+GSM330752   MILES stage 1 data N1_1116  AML with normal karyotype + other abnormalities
+GSM330746   MILES stage 1 data N1_1110  AML with normal karyotype + other abnormalities
+GSM330503   MILES stage 1 data N1_0867  AML with t(11q23)/MLL
+GSM330497   MILES stage 1 data N1_0861  AML with t(11q23)/MLL
+GSM330254   MILES stage 1 data N1_0624  c-ALL/Pre-B-ALL without t(9;22)
+GSM331636   MILES stage 1 data N1_2000  MDS
+GSM331144   MILES stage 1 data N1_1508  CLL
+GSM331138   MILES stage 1 data N1_1502  CLL
+GSM331095   MILES stage 1 data N1_1459  CLL
+GSM330646   MILES stage 1 data N1_1010  AML with normal karyotype + other abnormalities
+GSM330603   MILES stage 1 data N1_0967  AML with normal karyotype + other abnormalities
+GSM330597   MILES stage 1 data N1_0961  AML with normal karyotype + other abnormalities
+GSM330105   MILES stage 1 data N1_0475  ALL with hyperdiploid karyotype
+GSM329472   MILES stage 1 data N1_0066  Pro-B-ALL with t(11q23)/MLL
+GSM331536   MILES stage 1 data N1_1900  MDS
+GSM331287   MILES stage 1 data N1_1651  CLL
+GSM331044   MILES stage 1 data N1_1408  CLL
+GSM330946   MILES stage 1 data N1_1310  CLL
+GSM330795   MILES stage 1 data N1_1159  AML with normal karyotype + other abnormalities
+GSM330697   MILES stage 1 data N1_1061  AML with normal karyotype + other abnormalities
+GSM330454   MILES stage 1 data N1_0818  AML with t(15;17)
+GSM330205   MILES stage 1 data N1_0575  c-ALL/Pre-B-ALL without t(9;22)
+GSM329962   MILES stage 1 data N1_0332  T-ALL
+GSM329864   MILES stage 1 data N1_0234  T-ALL
+GSM331436   MILES stage 1 data N1_1800  CML
+GSM331387   MILES stage 1 data N1_1751  CML
+GSM330895   MILES stage 1 data N1_1259  AML complex aberrant karyotype
+GSM330846   MILES stage 1 data N1_1210  AML with normal karyotype + other abnormalities
+GSM330354   MILES stage 1 data N1_0718  c-ALL/Pre-B-ALL without t(9;22)
+GSM330305   MILES stage 1 data N1_0675  c-ALL/Pre-B-ALL without t(9;22)
+GSM329813   MILES stage 1 data N1_0183  c-ALL/Pre-B-ALL with t(9;22)
+GSM329764   MILES stage 1 data N1_0134  c-ALL/Pre-B-ALL with t(9;22)
+GSM331656   MILES stage 1 data N1_2020  MDS
+GSM331585   MILES stage 1 data N1_1949  MDS
+GSM331324   MILES stage 1 data N1_1688  CLL
+GSM330992   MILES stage 1 data N1_1356  CLL
+GSM330660   MILES stage 1 data N1_1024  AML with normal karyotype + other abnormalities
+GSM330328   MILES stage 1 data N1_0692  c-ALL/Pre-B-ALL without t(9;22)
+GSM329996   MILES stage 1 data N1_0366  T-ALL
+GSM331679   MILES stage 1 data N1_2043  Non-leukemia and healthy bone marrow
+GSM331562   MILES stage 1 data N1_1926  MDS
+GSM331347   MILES stage 1 data N1_1711  CLL
+GSM331230   MILES stage 1 data N1_1594  CLL
+GSM331015   MILES stage 1 data N1_1379  CLL
+GSM330898   MILES stage 1 data N1_1262  AML complex aberrant karyotype
+GSM330683   MILES stage 1 data N1_1047  AML with normal karyotype + other abnormalities
+GSM330566   MILES stage 1 data N1_0930  AML with normal karyotype + other abnormalities
+GSM330351   MILES stage 1 data N1_0715  c-ALL/Pre-B-ALL without t(9;22)
+GSM330019   MILES stage 1 data N1_0389  ALL with t(12;21)
+GSM331702   MILES stage 1 data N1_2066  Non-leukemia and healthy bone marrow
+GSM331539   MILES stage 1 data N1_1903  MDS
+GSM331370   MILES stage 1 data N1_1734  CLL
+GSM331207   MILES stage 1 data N1_1571  CLL
+GSM331038   MILES stage 1 data N1_1402  CLL
+GSM330875   MILES stage 1 data N1_1239  AML with normal karyotype + other abnormalities
+GSM329781   MILES stage 1 data N1_0151  c-ALL/Pre-B-ALL with t(9;22)
+GSM329449   MILES stage 1 data N1_0043  Pro-B-ALL with t(11q23)/MLL
+GSM330706   MILES stage 1 data N1_1070  AML with normal karyotype + other abnormalities
+GSM330543   MILES stage 1 data N1_0907  AML with normal karyotype + other abnormalities
+GSM330374   MILES stage 1 data N1_0738  c-ALL/Pre-B-ALL without t(9;22)
+GSM330211   MILES stage 1 data N1_0581  c-ALL/Pre-B-ALL without t(9;22)
+GSM330042   MILES stage 1 data N1_0412  ALL with t(12;21)
+GSM329879   MILES stage 1 data N1_0249  T-ALL
+GSM331725   MILES stage 1 data N1_2089  Non-leukemia and healthy bone marrow
+GSM331516   MILES stage 1 data N1_1880  MDS
+GSM331393   MILES stage 1 data N1_1757  CML
+GSM331184   MILES stage 1 data N1_1548  CLL
+GSM331061   MILES stage 1 data N1_1425  CLL
+GSM330852   MILES stage 1 data N1_1216  AML with normal karyotype + other abnormalities
+GSM329733   MILES stage 1 data N1_0103  c-ALL/Pre-B-ALL with t(9;22)
+GSM330729   MILES stage 1 data N1_1093  AML with normal karyotype + other abnormalities
+GSM330520   MILES stage 1 data N1_0884  AML with t(11q23)/MLL
+GSM330397   MILES stage 1 data N1_0761  AML with t(8;21)
+GSM330188   MILES stage 1 data N1_0558  c-ALL/Pre-B-ALL without t(9;22)
+GSM330065   MILES stage 1 data N1_0435  ALL with t(12;21)
+GSM329856   MILES stage 1 data N1_0226  T-ALL
+GSM331493   MILES stage 1 data N1_1857  MDS
+GSM331155   MILES stage 1 data N1_1519  CLL
+GSM331084   MILES stage 1 data N1_1448  CLL
+GSM330829   MILES stage 1 data N1_1193  AML with normal karyotype + other abnormalities
+GSM330491   MILES stage 1 data N1_0855  AML with inv(16)/t(16;16)
+GSM330420   MILES stage 1 data N1_0784  AML with t(8;21)
+GSM330165   MILES stage 1 data N1_0535  c-ALL/Pre-B-ALL without t(9;22)
+GSM329827   MILES stage 1 data N1_0197  c-ALL/Pre-B-ALL with t(9;22)
+GSM331470   MILES stage 1 data N1_1834  MDS
+GSM331107   MILES stage 1 data N1_1471  CLL
+GSM330806   MILES stage 1 data N1_1170  AML with normal karyotype + other abnormalities
+GSM330468   MILES stage 1 data N1_0832  AML with inv(16)/t(16;16)
+GSM330142   MILES stage 1 data N1_0512  ALL with hyperdiploid karyotype
+GSM329927   MILES stage 1 data N1_0297  T-ALL
+GSM329804   MILES stage 1 data N1_0174  c-ALL/Pre-B-ALL with t(9;22)
+GSM329478   MILES stage 1 data N1_0072  Pro-B-ALL with t(11q23)/MLL
+GSM331447   MILES stage 1 data N1_1811  CML
+GSM331376   MILES stage 1 data N1_1740  CLL
+GSM331201   MILES stage 1 data N1_1565  CLL
+GSM330783   MILES stage 1 data N1_1147  AML with normal karyotype + other abnormalities
+GSM330614   MILES stage 1 data N1_0978  AML with normal karyotype + other abnormalities
+GSM330537   MILES stage 1 data N1_0901  AML with normal karyotype + other abnormalities
+GSM330119   MILES stage 1 data N1_0489  ALL with hyperdiploid karyotype
+GSM329950   MILES stage 1 data N1_0320  T-ALL
+GSM329873   MILES stage 1 data N1_0243  T-ALL
+GSM329455   MILES stage 1 data N1_0049  Pro-B-ALL with t(11q23)/MLL
+GSM331301   MILES stage 1 data N1_1665  CLL
+GSM331178   MILES stage 1 data N1_1542  CLL
+GSM330760   MILES stage 1 data N1_1124  AML with normal karyotype + other abnormalities
+GSM330637   MILES stage 1 data N1_1001  AML with normal karyotype + other abnormalities
+GSM330514   MILES stage 1 data N1_0878  AML with t(11q23)/MLL
+GSM330096   MILES stage 1 data N1_0466  ALL with t(1;19)
+GSM329973   MILES stage 1 data N1_0343  T-ALL
+GSM329850   MILES stage 1 data N1_0220  T-ALL
+GSM329432   MILES stage 1 data N1_0026  Pro-B-ALL with t(11q23)/MLL
+GSM331662   MILES stage 1 data N1_2026  Non-leukemia and healthy bone marrow
+GSM330915   MILES stage 1 data N1_1279  AML complex aberrant karyotype
+GSM330666   MILES stage 1 data N1_1030  AML with normal karyotype + other abnormalities
+GSM330583   MILES stage 1 data N1_0947  AML with normal karyotype + other abnormalities
+GSM330334   MILES stage 1 data N1_0698  c-ALL/Pre-B-ALL without t(9;22)
+GSM330322   MILES stage 1 data N1_0686  c-ALL/Pre-B-ALL without t(9;22)
+GSM330073   MILES stage 1 data N1_0443  ALL with t(1;19)
+GSM329990   MILES stage 1 data N1_0360  T-ALL
+GSM329741   MILES stage 1 data N1_0111  c-ALL/Pre-B-ALL with t(9;22)
+GSM331556   MILES stage 1 data N1_1920  MDS
+GSM331353   MILES stage 1 data N1_1717  CLL
+GSM331224   MILES stage 1 data N1_1588  CLL
+GSM331021   MILES stage 1 data N1_1385  CLL
+GSM331009   MILES stage 1 data N1_1373  CLL
+GSM330677   MILES stage 1 data N1_1041  AML with normal karyotype + other abnormalities
+GSM330228   MILES stage 1 data N1_0598  c-ALL/Pre-B-ALL without t(9;22)
+GSM330025   MILES stage 1 data N1_0395  ALL with t(12;21)
+GSM329896   MILES stage 1 data N1_0266  T-ALL
+GSM331616   MILES stage 1 data N1_1980  MDS
+GSM330961   MILES stage 1 data N1_1325  CLL
+GSM330620   MILES stage 1 data N1_0984  AML with normal karyotype + other abnormalities
+GSM330288   MILES stage 1 data N1_0658  c-ALL/Pre-B-ALL without t(9;22)
+GSM331602   MILES stage 1 data N1_1966  MDS
+GSM331307   MILES stage 1 data N1_1671  CLL
+GSM331270   MILES stage 1 data N1_1634  CLL
+GSM330975   MILES stage 1 data N1_1339  CLL
+GSM330274   MILES stage 1 data N1_0644  c-ALL/Pre-B-ALL without t(9;22)
+GSM329979   MILES stage 1 data N1_0349  T-ALL
+GSM331416   MILES stage 1 data N1_1780  CML
+GSM331410   MILES stage 1 data N1_1774  CML
+GSM331167   MILES stage 1 data N1_1531  CLL
+GSM331161   MILES stage 1 data N1_1525  CLL
+GSM330823   MILES stage 1 data N1_1187  AML with normal karyotype + other abnormalities
+GSM330574   MILES stage 1 data N1_0938  AML with normal karyotype + other abnormalities
+GSM330082   MILES stage 1 data N1_0452  ALL with t(1;19)
+GSM329833   MILES stage 1 data N1_0203  c-ALL/Pre-B-ALL with t(9;22)
+GSM331261   MILES stage 1 data N1_1625  CLL
+GSM330769   MILES stage 1 data N1_1133  AML with normal karyotype + other abnormalities
+GSM330480   MILES stage 1 data N1_0844  AML with inv(16)/t(16;16)
+GSM330474   MILES stage 1 data N1_0838  AML with inv(16)/t(16;16)
+GSM330136   MILES stage 1 data N1_0506  ALL with hyperdiploid karyotype
+GSM329933   MILES stage 1 data N1_0303  T-ALL
+GSM329441   MILES stage 1 data N1_0035  Pro-B-ALL with t(11q23)/MLL
+GSM331708   MILES stage 1 data N1_2072  Non-leukemia and healthy bone marrow
+GSM331364   MILES stage 1 data N1_1728  CLL
+GSM331115   MILES stage 1 data N1_1479  CLL
+GSM330869   MILES stage 1 data N1_1233  AML with normal karyotype + other abnormalities
+GSM330282   MILES stage 1 data N1_0652  c-ALL/Pre-B-ALL without t(9;22)
+GSM330036   MILES stage 1 data N1_0406  ALL with t(12;21)
+GSM329787   MILES stage 1 data N1_0157  c-ALL/Pre-B-ALL with t(9;22)
+GSM331510   MILES stage 1 data N1_1874  MDS
+GSM330969   MILES stage 1 data N1_1333  CLL
+GSM330723   MILES stage 1 data N1_1087  AML with normal karyotype + other abnormalities
+GSM330428   MILES stage 1 data N1_0792  AML with t(15;17)
+GSM330182   MILES stage 1 data N1_0552  c-ALL/Pre-B-ALL without t(9;22)
+GSM329887   MILES stage 1 data N1_0257  T-ALL
+GSM331668   MILES stage 1 data N1_2032  Non-leukemia and healthy bone marrow
+GSM331502   MILES stage 1 data N1_1866  MDS
+GSM331241   MILES stage 1 data N1_1605  CLL
+GSM330743   MILES stage 1 data N1_1107  AML with normal karyotype + other abnormalities
+GSM330245   MILES stage 1 data N1_0615  c-ALL/Pre-B-ALL without t(9;22)
+GSM330079   MILES stage 1 data N1_0449  ALL with t(1;19)
+GSM329747   MILES stage 1 data N1_0117  c-ALL/Pre-B-ALL with t(9;22)
+GSM331384   MILES stage 1 data N1_1748  CML
+GSM330886   MILES stage 1 data N1_1250  AML complex aberrant karyotype
+GSM330720   MILES stage 1 data N1_1084  AML with normal karyotype + other abnormalities
+GSM330388   MILES stage 1 data N1_0752  AML with t(8;21)
+GSM330222   MILES stage 1 data N1_0592  c-ALL/Pre-B-ALL without t(9;22)
+GSM329890   MILES stage 1 data N1_0260  T-ALL
+GSM329724   MILES stage 1 data N1_0094  c-ALL/Pre-B-ALL with t(9;22)
+GSM331453   MILES stage 1 data N1_1817  MDS
+GSM331121   MILES stage 1 data N1_1485  CLL
+GSM330863   MILES stage 1 data N1_1227  AML with normal karyotype + other abnormalities
+GSM330792   MILES stage 1 data N1_1156  AML with normal karyotype + other abnormalities
+GSM330531   MILES stage 1 data N1_0895  AML with normal karyotype + other abnormalities
+GSM330457   MILES stage 1 data N1_0821  AML with t(15;17)
+GSM330128   MILES stage 1 data N1_0498  ALL with hyperdiploid karyotype
+GSM329867   MILES stage 1 data N1_0237  T-ALL
+GSM329796   MILES stage 1 data N1_0166  c-ALL/Pre-B-ALL with t(9;22)
+GSM329461   MILES stage 1 data N1_0055  Pro-B-ALL with t(11q23)/MLL
+GSM331147   MILES stage 1 data N1_1511  CLL
+GSM331098   MILES stage 1 data N1_1462  CLL
+GSM330102   MILES stage 1 data N1_0472  ALL with t(1;19)
+GSM330053   MILES stage 1 data N1_0423  ALL with t(12;21)
+GSM329438   MILES stage 1 data N1_0032  Pro-B-ALL with t(11q23)/MLL
+GSM329412   MILES stage 1 data N1_0006  mature B-ALL with t(8;14)
+GSM331576   MILES stage 1 data N1_1940  MDS
+GSM331404   MILES stage 1 data N1_1768  CML
+GSM331078   MILES stage 1 data N1_1442  CLL
+GSM330912   MILES stage 1 data N1_1276  AML complex aberrant karyotype
+GSM330906   MILES stage 1 data N1_1270  AML complex aberrant karyotype
+GSM330835   MILES stage 1 data N1_1199  AML with normal karyotype + other abnormalities
+GSM330414   MILES stage 1 data N1_0778  AML with t(8;21)
+GSM330337   MILES stage 1 data N1_0701  c-ALL/Pre-B-ALL without t(9;22)
+GSM331476   MILES stage 1 data N1_1840  MDS
+GSM331427   MILES stage 1 data N1_1791  CML
+GSM330978   MILES stage 1 data N1_1342  CLL
+GSM330935   MILES stage 1 data N1_1299  CLL
+GSM330929   MILES stage 1 data N1_1293  CLL
+GSM330812   MILES stage 1 data N1_1176  AML with normal karyotype + other abnormalities
+GSM330763   MILES stage 1 data N1_1127  AML with normal karyotype + other abnormalities
+GSM330437   MILES stage 1 data N1_0801  AML with t(15;17)
+GSM330271   MILES stage 1 data N1_0641  c-ALL/Pre-B-ALL without t(9;22)
+GSM330265   MILES stage 1 data N1_0635  c-ALL/Pre-B-ALL without t(9;22)
+GSM329773   MILES stage 1 data N1_0143  c-ALL/Pre-B-ALL with t(9;22)
+GSM331696   MILES stage 1 data N1_2060  Non-leukemia and healthy bone marrow
+GSM331619   MILES stage 1 data N1_1983  MDS
+GSM331127   MILES stage 1 data N1_1491  CLL
+GSM330955   MILES stage 1 data N1_1319  CLL
+GSM330786   MILES stage 1 data N1_1150  AML with normal karyotype + other abnormalities
+GSM330365   MILES stage 1 data N1_0729  c-ALL/Pre-B-ALL without t(9;22)
+GSM330294   MILES stage 1 data N1_0664  c-ALL/Pre-B-ALL without t(9;22)
+GSM330122   MILES stage 1 data N1_0492  ALL with hyperdiploid karyotype
+GSM331719   MILES stage 1 data N1_2083  Non-leukemia and healthy bone marrow
+GSM331645   MILES stage 1 data N1_2009  MDS
+GSM331596   MILES stage 1 data N1_1960  MDS
+GSM331104   MILES stage 1 data N1_1468  CLL
+GSM331055   MILES stage 1 data N1_1419  CLL
+GSM330145   MILES stage 1 data N1_0515  c-ALL/Pre-B-ALL without t(9;22)
+GSM329481   MILES stage 1 data N1_0075  Pro-B-ALL with t(11q23)/MLL
+GSM331496   MILES stage 1 data N1_1860  MDS
+GSM331247   MILES stage 1 data N1_1611  CLL
+GSM330998   MILES stage 1 data N1_1362  CLL
+GSM330749   MILES stage 1 data N1_1113  AML with normal karyotype + other abnormalities
+GSM330500   MILES stage 1 data N1_0864  AML with t(11q23)/MLL
+GSM330251   MILES stage 1 data N1_0621  c-ALL/Pre-B-ALL without t(9;22)
+GSM330002   MILES stage 1 data N1_0372  T-ALL
+GSM329824   MILES stage 1 data N1_0194  c-ALL/Pre-B-ALL with t(9;22)
+GSM329753   MILES stage 1 data N1_0123  c-ALL/Pre-B-ALL with t(9;22)
+GSM331390   MILES stage 1 data N1_1754  CML
+GSM330892   MILES stage 1 data N1_1256  AML complex aberrant karyotype
+GSM330855   MILES stage 1 data N1_1219  AML with normal karyotype + other abnormalities
+GSM330843   MILES stage 1 data N1_1207  AML with normal karyotype + other abnormalities
+GSM330394   MILES stage 1 data N1_0758  AML with t(8;21)
+GSM330357   MILES stage 1 data N1_0721  c-ALL/Pre-B-ALL without t(9;22)
+GSM330345   MILES stage 1 data N1_0709  c-ALL/Pre-B-ALL without t(9;22)
+GSM331625   MILES stage 1 data N1_1989  MDS
+GSM331284   MILES stage 1 data N1_1648  CLL
+GSM331198   MILES stage 1 data N1_1562  CLL
+GSM331035   MILES stage 1 data N1_1399  CLL
+GSM330949   MILES stage 1 data N1_1313  CLL
+GSM330202   MILES stage 1 data N1_0572  c-ALL/Pre-B-ALL without t(9;22)
+GSM329953   MILES stage 1 data N1_0323  T-ALL
+GSM331688   MILES stage 1 data N1_2052  Non-leukemia and healthy bone marrow
+GSM331676   MILES stage 1 data N1_2040  Non-leukemia and healthy bone marrow
+GSM331639   MILES stage 1 data N1_2003  MDS
+GSM330643   MILES stage 1 data N1_1007  AML with normal karyotype + other abnormalities
+GSM330606   MILES stage 1 data N1_0970  AML with normal karyotype + other abnormalities
+GSM330594   MILES stage 1 data N1_0958  AML with normal karyotype + other abnormalities
+GSM330557   MILES stage 1 data N1_0921  AML with normal karyotype + other abnormalities
+GSM330016   MILES stage 1 data N1_0386  ALL with t(12;21)
+GSM331582   MILES stage 1 data N1_1946  MDS
+GSM331333   MILES stage 1 data N1_1697  CLL
+GSM330408   MILES stage 1 data N1_0772  AML with t(8;21)
+GSM330159   MILES stage 1 data N1_0529  c-ALL/Pre-B-ALL without t(9;22)
+GSM329916   MILES stage 1 data N1_0286  T-ALL
+GSM329910   MILES stage 1 data N1_0280  T-ALL
+GSM329418   MILES stage 1 data N1_0012  mature B-ALL with t(8;14)
+GSM331439   MILES stage 1 data N1_1803  CML
+GSM331433   MILES stage 1 data N1_1797  CML
+GSM330308   MILES stage 1 data N1_0678  c-ALL/Pre-B-ALL without t(9;22)
+GSM330302   MILES stage 1 data N1_0672  c-ALL/Pre-B-ALL without t(9;22)
+GSM329816   MILES stage 1 data N1_0186  c-ALL/Pre-B-ALL with t(9;22)
+GSM329810   MILES stage 1 data N1_0180  c-ALL/Pre-B-ALL with t(9;22)
+GSM329767   MILES stage 1 data N1_0137  c-ALL/Pre-B-ALL with t(9;22)
+GSM329761   MILES stage 1 data N1_0131  c-ALL/Pre-B-ALL with t(9;22)
+GSM331533   MILES stage 1 data N1_1897  MDS
+GSM331290   MILES stage 1 data N1_1654  CLL
+GSM331041   MILES stage 1 data N1_1405  CLL
+GSM330700   MILES stage 1 data N1_1064  AML with normal karyotype + other abnormalities
+GSM330451   MILES stage 1 data N1_0815  AML with t(15;17)
+GSM330208   MILES stage 1 data N1_0578  c-ALL/Pre-B-ALL without t(9;22)
+GSM329959   MILES stage 1 data N1_0329  T-ALL
+GSM331731   MILES stage 1 data N1_2095  Non-leukemia and healthy bone marrow
+GSM331682   MILES stage 1 data N1_2046  Non-leukemia and healthy bone marrow
+GSM331633   MILES stage 1 data N1_1997  MDS
+GSM331190   MILES stage 1 data N1_1554  CLL
+GSM331141   MILES stage 1 data N1_1505  CLL
+GSM331092   MILES stage 1 data N1_1456  CLL
+GSM329469   MILES stage 1 data N1_0063  Pro-B-ALL with t(11q23)/MLL
+GSM330649   MILES stage 1 data N1_1013  AML with normal karyotype + other abnormalities
+GSM330600   MILES stage 1 data N1_0964  AML with normal karyotype + other abnormalities
+GSM330551   MILES stage 1 data N1_0915  AML with normal karyotype + other abnormalities
+GSM330108   MILES stage 1 data N1_0478  ALL with hyperdiploid karyotype
+GSM330059   MILES stage 1 data N1_0429  ALL with t(12;21)
+GSM330010   MILES stage 1 data N1_0380  ALL with t(12;21)
+GSM331680   MILES stage 1 data N1_2044  Non-leukemia and healthy bone marrow
+GSM331348   MILES stage 1 data N1_1712  CLL
+GSM331087   MILES stage 1 data N1_1451  CLL
+GSM331016   MILES stage 1 data N1_1380  CLL
+GSM330755   MILES stage 1 data N1_1119  AML with normal karyotype + other abnormalities
+GSM330684   MILES stage 1 data N1_1048  AML with normal karyotype + other abnormalities
+GSM330423   MILES stage 1 data N1_0787  AML with t(8;21)
+GSM330352   MILES stage 1 data N1_0716  c-ALL/Pre-B-ALL without t(9;22)
+GSM330091   MILES stage 1 data N1_0461  ALL with t(1;19)
+GSM329759   MILES stage 1 data N1_0129  c-ALL/Pre-B-ALL with t(9;22)
+GSM329427   MILES stage 1 data N1_0021  Pro-B-ALL with t(11q23)/MLL
+GSM331703   MILES stage 1 data N1_2067  Non-leukemia and healthy bone marrow
+GSM331371   MILES stage 1 data N1_1735  CLL
+GSM331039   MILES stage 1 data N1_1403  CLL
+GSM330400   MILES stage 1 data N1_0764  AML with t(8;21)
+GSM330068   MILES stage 1 data N1_0438  ALL with t(1;19)
+GSM329736   MILES stage 1 data N1_0106  c-ALL/Pre-B-ALL with t(9;22)
+GSM331726   MILES stage 1 data N1_2090  Non-leukemia and healthy bone marrow
+GSM331465   MILES stage 1 data N1_1829  MDS
+GSM331133   MILES stage 1 data N1_1497  CLL
+GSM330801   MILES stage 1 data N1_1165  AML with normal karyotype + other abnormalities
+GSM330469   MILES stage 1 data N1_0833  AML with inv(16)/t(16;16)
+GSM330137   MILES stage 1 data N1_0507  ALL with hyperdiploid karyotype
+GSM329805   MILES stage 1 data N1_0175  c-ALL/Pre-B-ALL with t(9;22)
+GSM329473   MILES stage 1 data N1_0067  Pro-B-ALL with t(11q23)/MLL
+GSM331442   MILES stage 1 data N1_1806  CML
+GSM331110   MILES stage 1 data N1_1474  CLL
+GSM330778   MILES stage 1 data N1_1142  AML with normal karyotype + other abnormalities
+GSM330446   MILES stage 1 data N1_0810  AML with t(15;17)
+GSM330114   MILES stage 1 data N1_0484  ALL with hyperdiploid karyotype
+GSM329782   MILES stage 1 data N1_0152  c-ALL/Pre-B-ALL with t(9;22)
+GSM329450   MILES stage 1 data N1_0044  Pro-B-ALL with t(11q23)/MLL
+GSM331517   MILES stage 1 data N1_1881  MDS
+GSM331256   MILES stage 1 data N1_1620  CLL
+GSM331179   MILES stage 1 data N1_1543  CLL
+GSM330592   MILES stage 1 data N1_0956  AML with normal karyotype + other abnormalities
+GSM330515   MILES stage 1 data N1_0879  AML with t(11q23)/MLL
+GSM329928   MILES stage 1 data N1_0298  T-ALL
+GSM329922   MILES stage 1 data N1_0292  T-ALL
+GSM329851   MILES stage 1 data N1_0221  T-ALL
+GSM331494   MILES stage 1 data N1_1858  MDS
+GSM331279   MILES stage 1 data N1_1643  CLL
+GSM331156   MILES stage 1 data N1_1520  CLL
+GSM330830   MILES stage 1 data N1_1194  AML with normal karyotype + other abnormalities
+GSM330615   MILES stage 1 data N1_0979  AML with normal karyotype + other abnormalities
+GSM330609   MILES stage 1 data N1_0973  AML with normal karyotype + other abnormalities
+GSM330492   MILES stage 1 data N1_0856  AML with t(11q23)/MLL
+GSM329951   MILES stage 1 data N1_0321  T-ALL
+GSM329945   MILES stage 1 data N1_0315  T-ALL
+GSM329828   MILES stage 1 data N1_0198  c-ALL/Pre-B-ALL with t(9;22)
+GSM331471   MILES stage 1 data N1_1835  MDS
+GSM331302   MILES stage 1 data N1_1666  CLL
+GSM331225   MILES stage 1 data N1_1589  CLL
+GSM330807   MILES stage 1 data N1_1171  AML with normal karyotype + other abnormalities
+GSM330638   MILES stage 1 data N1_1002  AML with normal karyotype + other abnormalities
+GSM330143   MILES stage 1 data N1_0513  ALL with hyperdiploid karyotype
+GSM329974   MILES stage 1 data N1_0344  T-ALL
+GSM331448   MILES stage 1 data N1_1812  CML
+GSM331325   MILES stage 1 data N1_1689  CLL
+GSM331202   MILES stage 1 data N1_1566  CLL
+GSM330784   MILES stage 1 data N1_1148  AML with normal karyotype + other abnormalities
+GSM330661   MILES stage 1 data N1_1025  AML with normal karyotype + other abnormalities
+GSM330538   MILES stage 1 data N1_0902  AML with normal karyotype + other abnormalities
+GSM330120   MILES stage 1 data N1_0490  ALL with hyperdiploid karyotype
+GSM329997   MILES stage 1 data N1_0367  T-ALL
+GSM329874   MILES stage 1 data N1_0244  T-ALL
+GSM329456   MILES stage 1 data N1_0050  Pro-B-ALL with t(11q23)/MLL
+GSM331010   MILES stage 1 data N1_1374  CLL
+GSM330761   MILES stage 1 data N1_1125  AML with normal karyotype + other abnormalities
+GSM330678   MILES stage 1 data N1_1042  AML with normal karyotype + other abnormalities
+GSM330429   MILES stage 1 data N1_0793  AML with t(15;17)
+GSM329433   MILES stage 1 data N1_0027  Pro-B-ALL with t(11q23)/MLL
+GSM331697   MILES stage 1 data N1_2061  Non-leukemia and healthy bone marrow
+GSM331402   MILES stage 1 data N1_1766  CML
+GSM331365   MILES stage 1 data N1_1729  CLL
+GSM331070   MILES stage 1 data N1_1434  CLL
+GSM330369   MILES stage 1 data N1_0733  c-ALL/Pre-B-ALL without t(9;22)
+GSM330074   MILES stage 1 data N1_0444  ALL with t(1;19)
+GSM330037   MILES stage 1 data N1_0407  ALL with t(12;21)
+GSM329742   MILES stage 1 data N1_0112  c-ALL/Pre-B-ALL with t(9;22)
+GSM331711   MILES stage 1 data N1_2075  Non-leukemia and healthy bone marrow
+GSM331308   MILES stage 1 data N1_1672  CLL
+GSM330976   MILES stage 1 data N1_1340  CLL
+GSM330964   MILES stage 1 data N1_1328  CLL
+GSM330715   MILES stage 1 data N1_1079  AML with normal karyotype + other abnormalities
+GSM330632   MILES stage 1 data N1_0996  AML with normal karyotype + other abnormalities
+GSM330383   MILES stage 1 data N1_0747  c-ALL/Pre-B-ALL without t(9;22)
+GSM329882   MILES stage 1 data N1_0252  T-ALL
+GSM331663   MILES stage 1 data N1_2027  Non-leukemia and healthy bone marrow
+GSM331651   MILES stage 1 data N1_2015  MDS
+GSM331319   MILES stage 1 data N1_1683  CLL
+GSM331024   MILES stage 1 data N1_1388  CLL
+GSM330569   MILES stage 1 data N1_0933  AML with normal karyotype + other abnormalities
+GSM330323   MILES stage 1 data N1_0687  c-ALL/Pre-B-ALL without t(9;22)
+GSM330237   MILES stage 1 data N1_0607  c-ALL/Pre-B-ALL without t(9;22)
+GSM330028   MILES stage 1 data N1_0398  ALL with t(12;21)
+GSM329991   MILES stage 1 data N1_0361  T-ALL
+GSM331511   MILES stage 1 data N1_1875  MDS
+GSM331505   MILES stage 1 data N1_1869  MDS
+GSM331262   MILES stage 1 data N1_1626  CLL
+GSM330924   MILES stage 1 data N1_1288  AML complex aberrant karyotype
+GSM330183   MILES stage 1 data N1_0553  c-ALL/Pre-B-ALL without t(9;22)
+GSM330177   MILES stage 1 data N1_0547  c-ALL/Pre-B-ALL without t(9;22)
+GSM329934   MILES stage 1 data N1_0304  T-ALL
+GSM331611   MILES stage 1 data N1_1975  MDS
+GSM331162   MILES stage 1 data N1_1526  CLL
+GSM330824   MILES stage 1 data N1_1188  AML with normal karyotype + other abnormalities
+GSM330818   MILES stage 1 data N1_1182  AML with normal karyotype + other abnormalities
+GSM330621   MILES stage 1 data N1_0985  AML with normal karyotype + other abnormalities
+GSM330283   MILES stage 1 data N1_0653  c-ALL/Pre-B-ALL without t(9;22)
+GSM330277   MILES stage 1 data N1_0647  c-ALL/Pre-B-ALL without t(9;22)
+GSM329490   MILES stage 1 data N1_0084  c-ALL/Pre-B-ALL with t(9;22)
+GSM331557   MILES stage 1 data N1_1921  MDS
+GSM331216   MILES stage 1 data N1_1580  CLL
+GSM330970   MILES stage 1 data N1_1334  CLL
+GSM330724   MILES stage 1 data N1_1088  AML with normal karyotype + other abnormalities
+GSM330475   MILES stage 1 data N1_0839  AML with inv(16)/t(16;16)
+GSM330131   MILES stage 1 data N1_0501  ALL with hyperdiploid karyotype
+GSM329888   MILES stage 1 data N1_0258  T-ALL
+GSM331657   MILES stage 1 data N1_2021  MDS
+GSM331411   MILES stage 1 data N1_1775  CML
+GSM331116   MILES stage 1 data N1_1480  CLL
+GSM330870   MILES stage 1 data N1_1234  AML with normal karyotype + other abnormalities
+GSM330575   MILES stage 1 data N1_0939  AML with normal karyotype + other abnormalities
+GSM330329   MILES stage 1 data N1_0693  c-ALL/Pre-B-ALL without t(9;22)
+GSM329985   MILES stage 1 data N1_0355  T-ALL
+GSM329788   MILES stage 1 data N1_0158  c-ALL/Pre-B-ALL with t(9;22)
+GSM329444   MILES stage 1 data N1_0038  Pro-B-ALL with t(11q23)/MLL
+GSM331597   MILES stage 1 data N1_1961  MDS
+GSM331265   MILES stage 1 data N1_1629  CLL
+GSM331099   MILES stage 1 data N1_1463  CLL
+GSM330838   MILES stage 1 data N1_1202  AML with normal karyotype + other abnormalities
+GSM330672   MILES stage 1 data N1_1036  AML with normal karyotype + other abnormalities
+GSM330601   MILES stage 1 data N1_0965  AML with normal karyotype + other abnormalities
+GSM330340   MILES stage 1 data N1_0704  c-ALL/Pre-B-ALL without t(9;22)
+GSM330174   MILES stage 1 data N1_0544  c-ALL/Pre-B-ALL without t(9;22)
+GSM330103   MILES stage 1 data N1_0473  ALL with t(1;19)
+GSM329842   MILES stage 1 data N1_0212  T-ALL
+GSM331691   MILES stage 1 data N1_2055  Non-leukemia and healthy bone marrow
+GSM331242   MILES stage 1 data N1_1606  CLL
+GSM331193   MILES stage 1 data N1_1557  CLL
+GSM330744   MILES stage 1 data N1_1108  AML with normal karyotype + other abnormalities
+GSM330695   MILES stage 1 data N1_1059  AML with normal karyotype + other abnormalities
+GSM330246   MILES stage 1 data N1_0616  c-ALL/Pre-B-ALL without t(9;22)
+GSM330197   MILES stage 1 data N1_0567  c-ALL/Pre-B-ALL without t(9;22)
+GSM330080   MILES stage 1 data N1_0450  ALL with t(1;19)
+GSM330031   MILES stage 1 data N1_0401  ALL with t(12;21)
+GSM329748   MILES stage 1 data N1_0118  c-ALL/Pre-B-ALL with t(9;22)
+GSM331714   MILES stage 1 data N1_2078  Non-leukemia and healthy bone marrow
+GSM331050   MILES stage 1 data N1_1414  CLL
+GSM330887   MILES stage 1 data N1_1251  AML complex aberrant karyotype
+GSM330223   MILES stage 1 data N1_0593  c-ALL/Pre-B-ALL without t(9;22)
+GSM330054   MILES stage 1 data N1_0424  ALL with t(12;21)
+GSM329891   MILES stage 1 data N1_0261  T-ALL
+GSM329464   MILES stage 1 data N1_0058  Pro-B-ALL with t(11q23)/MLL
+GSM331528   MILES stage 1 data N1_1892  MDS
+GSM331454   MILES stage 1 data N1_1818  MDS
+GSM331405   MILES stage 1 data N1_1769  CML
+GSM331122   MILES stage 1 data N1_1486  CLL
+GSM331073   MILES stage 1 data N1_1437  CLL
+GSM330864   MILES stage 1 data N1_1228  AML with normal karyotype + other abnormalities
+GSM330532   MILES stage 1 data N1_0896  AML with normal karyotype + other abnormalities
+GSM330483   MILES stage 1 data N1_0847  AML with inv(16)/t(16;16)
+GSM330409   MILES stage 1 data N1_0773  AML with t(8;21)
+GSM329868   MILES stage 1 data N1_0238  T-ALL
+GSM329819   MILES stage 1 data N1_0189  c-ALL/Pre-B-ALL with t(9;22)
+GSM329413   MILES stage 1 data N1_0007  mature B-ALL with t(8;14)
+GSM331671   MILES stage 1 data N1_2035  Non-leukemia and healthy bone marrow
+GSM331428   MILES stage 1 data N1_1792  CML
+GSM331173   MILES stage 1 data N1_1537  CLL
+GSM331007   MILES stage 1 data N1_1371  CLL
+GSM330930   MILES stage 1 data N1_1294  CLL
+GSM330764   MILES stage 1 data N1_1128  AML with normal karyotype + other abnormalities
+GSM330509   MILES stage 1 data N1_0873  AML with t(11q23)/MLL
+GSM330266   MILES stage 1 data N1_0636  c-ALL/Pre-B-ALL without t(9;22)
+GSM331150   MILES stage 1 data N1_1514  CLL
+GSM330787   MILES stage 1 data N1_1151  AML with normal karyotype + other abnormalities
+GSM330289   MILES stage 1 data N1_0659  c-ALL/Pre-B-ALL without t(9;22)
+GSM330123   MILES stage 1 data N1_0493  ALL with hyperdiploid karyotype
+GSM331720   MILES stage 1 data N1_2084  Non-leukemia and healthy bone marrow
+GSM331548   MILES stage 1 data N1_1912  MDS
+GSM331056   MILES stage 1 data N1_1420  CLL
+GSM330881   MILES stage 1 data N1_1245  AML complex aberrant karyotype
+GSM330389   MILES stage 1 data N1_0753  AML with t(8;21)
+GSM330217   MILES stage 1 data N1_0587  c-ALL/Pre-B-ALL without t(9;22)
+GSM329799   MILES stage 1 data N1_0169  c-ALL/Pre-B-ALL with t(9;22)
+GSM329725   MILES stage 1 data N1_0095  c-ALL/Pre-B-ALL with t(9;22)
+GSM331620   MILES stage 1 data N1_1984  MDS
+GSM331571   MILES stage 1 data N1_1935  MDS
+GSM331497   MILES stage 1 data N1_1861  MDS
+GSM331079   MILES stage 1 data N1_1443  CLL
+GSM331030   MILES stage 1 data N1_1394  CLL
+GSM330956   MILES stage 1 data N1_1320  CLL
+GSM330907   MILES stage 1 data N1_1271  AML complex aberrant karyotype
+GSM330858   MILES stage 1 data N1_1222  AML with normal karyotype + other abnormalities
+GSM330415   MILES stage 1 data N1_0779  AML with t(8;21)
+GSM330366   MILES stage 1 data N1_0730  c-ALL/Pre-B-ALL without t(9;22)
+GSM330317   MILES stage 1 data N1_0681  c-ALL/Pre-B-ALL without t(9;22)
+GSM329776   MILES stage 1 data N1_0146  c-ALL/Pre-B-ALL with t(9;22)
+GSM331591   MILES stage 1 data N1_1955  MDS
+GSM331342   MILES stage 1 data N1_1706  CLL
+GSM331093   MILES stage 1 data N1_1457  CLL
+GSM330844   MILES stage 1 data N1_1208  AML with normal karyotype + other abnormalities
+GSM330595   MILES stage 1 data N1_0959  AML with normal karyotype + other abnormalities
+GSM330346   MILES stage 1 data N1_0710  c-ALL/Pre-B-ALL without t(9;22)
+GSM330097   MILES stage 1 data N1_0467  ALL with t(1;19)
+GSM331236   MILES stage 1 data N1_1600  CLL
+GSM331199   MILES stage 1 data N1_1563  CLL
+GSM330738   MILES stage 1 data N1_1102  AML with normal karyotype + other abnormalities
+GSM330701   MILES stage 1 data N1_1065  AML with normal karyotype + other abnormalities
+GSM330203   MILES stage 1 data N1_0573  c-ALL/Pre-B-ALL without t(9;22)
+GSM331640   MILES stage 1 data N1_2004  MDS
+GSM331628   MILES stage 1 data N1_1992  MDS
+GSM331391   MILES stage 1 data N1_1755  CML
+GSM331379   MILES stage 1 data N1_1743  CML
+GSM330644   MILES stage 1 data N1_1008  AML with normal karyotype + other abnormalities
+GSM330558   MILES stage 1 data N1_0922  AML with normal karyotype + other abnormalities
+GSM330546   MILES stage 1 data N1_0910  AML with normal karyotype + other abnormalities
+GSM330309   MILES stage 1 data N1_0679  c-ALL/Pre-B-ALL without t(9;22)
+GSM330297   MILES stage 1 data N1_0667  c-ALL/Pre-B-ALL without t(9;22)
+GSM329968   MILES stage 1 data N1_0338  T-ALL
+GSM329719   MILES stage 1 data N1_0089  c-ALL/Pre-B-ALL with t(9;22)
+GSM331577   MILES stage 1 data N1_1941  MDS
+GSM331036   MILES stage 1 data N1_1400  CLL
+GSM330987   MILES stage 1 data N1_1351  CLL
+GSM330950   MILES stage 1 data N1_1314  CLL
+GSM330901   MILES stage 1 data N1_1265  AML complex aberrant karyotype
+GSM330360   MILES stage 1 data N1_0724  c-ALL/Pre-B-ALL without t(9;22)
+GSM329954   MILES stage 1 data N1_0324  T-ALL
+GSM329905   MILES stage 1 data N1_0275  T-ALL
+GSM331683   MILES stage 1 data N1_2047  Non-leukemia and healthy bone marrow
+GSM331677   MILES stage 1 data N1_2041  Non-leukemia and healthy bone marrow
+GSM331434   MILES stage 1 data N1_1798  CML
+GSM331185   MILES stage 1 data N1_1549  CLL
+GSM330260   MILES stage 1 data N1_0630  c-ALL/Pre-B-ALL without t(9;22)
+GSM330011   MILES stage 1 data N1_0381  ALL with t(12;21)
+GSM330005   MILES stage 1 data N1_0375  T-ALL
+GSM329768   MILES stage 1 data N1_0138  c-ALL/Pre-B-ALL with t(9;22)
+GSM329762   MILES stage 1 data N1_0132  c-ALL/Pre-B-ALL with t(9;22)
+GSM331285   MILES stage 1 data N1_1649  CLL
+GSM330652   MILES stage 1 data N1_1016  AML with normal karyotype + other abnormalities
+GSM330160   MILES stage 1 data N1_0530  c-ALL/Pre-B-ALL without t(9;22)
+GSM330154   MILES stage 1 data N1_0524  c-ALL/Pre-B-ALL without t(9;22)
+GSM330111   MILES stage 1 data N1_0481  ALL with hyperdiploid karyotype
+GSM331634   MILES stage 1 data N1_1998  MDS
+GSM331385   MILES stage 1 data N1_1749  CML
+GSM331142   MILES stage 1 data N1_1506  CLL
+GSM330893   MILES stage 1 data N1_1257  AML complex aberrant karyotype
+GSM330552   MILES stage 1 data N1_0916  AML with normal karyotype + other abnormalities
+GSM330303   MILES stage 1 data N1_0673  c-ALL/Pre-B-ALL without t(9;22)
+GSM330060   MILES stage 1 data N1_0430  ALL with t(12;21)
+GSM329811   MILES stage 1 data N1_0181  c-ALL/Pre-B-ALL with t(9;22)
+GSM329470   MILES stage 1 data N1_0064  Pro-B-ALL with t(11q23)/MLL
+GSM331534   MILES stage 1 data N1_1898  MDS
+GSM331485   MILES stage 1 data N1_1849  MDS
+GSM330993   MILES stage 1 data N1_1357  CLL
+GSM330944   MILES stage 1 data N1_1308  CLL
+GSM330452   MILES stage 1 data N1_0816  AML with t(15;17)
+GSM330403   MILES stage 1 data N1_0767  AML with t(8;21)
+GSM329911   MILES stage 1 data N1_0281  T-ALL
+GSM329862   MILES stage 1 data N1_0232  T-ALL
+GSM331514   MILES stage 1 data N1_1878  MDS
+GSM331253   MILES stage 1 data N1_1617  CLL
+GSM331182   MILES stage 1 data N1_1546  CLL
+GSM330921   MILES stage 1 data N1_1285  AML complex aberrant karyotype
+GSM330850   MILES stage 1 data N1_1214  AML with normal karyotype + other abnormalities
+GSM330589   MILES stage 1 data N1_0953  AML with normal karyotype + other abnormalities
+GSM330518   MILES stage 1 data N1_0882  AML with t(11q23)/MLL
+GSM330257   MILES stage 1 data N1_0627  c-ALL/Pre-B-ALL without t(9;22)
+GSM330186   MILES stage 1 data N1_0556  c-ALL/Pre-B-ALL without t(9;22)
+GSM329925   MILES stage 1 data N1_0295  T-ALL
+GSM331537   MILES stage 1 data N1_1901  MDS
+GSM331205   MILES stage 1 data N1_1569  CLL
+GSM330873   MILES stage 1 data N1_1237  AML with normal karyotype + other abnormalities
+GSM330234   MILES stage 1 data N1_0604  c-ALL/Pre-B-ALL without t(9;22)
+GSM329902   MILES stage 1 data N1_0272  T-ALL
+GSM331468   MILES stage 1 data N1_1832  MDS
+GSM331136   MILES stage 1 data N1_1500  CLL
+GSM330804   MILES stage 1 data N1_1168  AML with normal karyotype + other abnormalities
+GSM330472   MILES stage 1 data N1_0836  AML with inv(16)/t(16;16)
+GSM330140   MILES stage 1 data N1_0510  ALL with hyperdiploid karyotype
+GSM329808   MILES stage 1 data N1_0178  c-ALL/Pre-B-ALL with t(9;22)
+GSM329476   MILES stage 1 data N1_0070  Pro-B-ALL with t(11q23)/MLL
+GSM331491   MILES stage 1 data N1_1855  MDS
+GSM331159   MILES stage 1 data N1_1523  CLL
+GSM330827   MILES stage 1 data N1_1191  AML with normal karyotype + other abnormalities
+GSM330495   MILES stage 1 data N1_0859  AML with t(11q23)/MLL
+GSM330163   MILES stage 1 data N1_0533  c-ALL/Pre-B-ALL without t(9;22)
+GSM329831   MILES stage 1 data N1_0201  c-ALL/Pre-B-ALL with t(9;22)
+GSM331422   MILES stage 1 data N1_1786  CML
+GSM331351   MILES stage 1 data N1_1715  CLL
+GSM331345   MILES stage 1 data N1_1709  CLL
+GSM330758   MILES stage 1 data N1_1122  AML with normal karyotype + other abnormalities
+GSM330681   MILES stage 1 data N1_1045  AML with normal karyotype + other abnormalities
+GSM330094   MILES stage 1 data N1_0464  ALL with t(1;19)
+GSM330017   MILES stage 1 data N1_0387  ALL with t(12;21)
+GSM329756   MILES stage 1 data N1_0126  c-ALL/Pre-B-ALL with t(9;22)
+GSM329430   MILES stage 1 data N1_0024  Pro-B-ALL with t(11q23)/MLL
+GSM331445   MILES stage 1 data N1_1809  CML
+GSM331328   MILES stage 1 data N1_1692  CLL
+GSM331322   MILES stage 1 data N1_1686  CLL
+GSM330781   MILES stage 1 data N1_1145  AML with normal karyotype + other abnormalities
+GSM330664   MILES stage 1 data N1_1028  AML with normal karyotype + other abnormalities
+GSM330658   MILES stage 1 data N1_1022  AML with normal karyotype + other abnormalities
+GSM330443   MILES stage 1 data N1_0807  AML with t(15;17)
+GSM330117   MILES stage 1 data N1_0487  ALL with hyperdiploid karyotype
+GSM329994   MILES stage 1 data N1_0364  T-ALL
+GSM329779   MILES stage 1 data N1_0149  c-ALL/Pre-B-ALL with t(9;22)
+GSM329453   MILES stage 1 data N1_0047  Pro-B-ALL with t(11q23)/MLL
+GSM331299   MILES stage 1 data N1_1663  CLL
+GSM331130   MILES stage 1 data N1_1494  CLL
+GSM330712   MILES stage 1 data N1_1076  AML with normal karyotype + other abnormalities
+GSM330635   MILES stage 1 data N1_0999  AML with normal karyotype + other abnormalities
+GSM330466   MILES stage 1 data N1_0830  AML with inv(16)/t(16;16)
+GSM330048   MILES stage 1 data N1_0418  ALL with t(12;21)
+GSM329971   MILES stage 1 data N1_0341  T-ALL
+GSM329802   MILES stage 1 data N1_0172  c-ALL/Pre-B-ALL with t(9;22)
+GSM329407   MILES stage 1 data N1_0001  mature B-ALL with t(8;14)
+GSM331399   MILES stage 1 data N1_1763  CML
+GSM331276   MILES stage 1 data N1_1640  CLL
+GSM331153   MILES stage 1 data N1_1517  CLL
+GSM330735   MILES stage 1 data N1_1099  AML with normal karyotype + other abnormalities
+GSM330612   MILES stage 1 data N1_0976  AML with normal karyotype + other abnormalities
+GSM330489   MILES stage 1 data N1_0853  AML with inv(16)/t(16;16)
+GSM330071   MILES stage 1 data N1_0441  ALL with t(1;19)
+GSM329948   MILES stage 1 data N1_0318  T-ALL
+GSM329825   MILES stage 1 data N1_0195  c-ALL/Pre-B-ALL with t(9;22)
+GSM331508   MILES stage 1 data N1_1872  MDS
+GSM331259   MILES stage 1 data N1_1623  CLL
+GSM331176   MILES stage 1 data N1_1540  CLL
+GSM330927   MILES stage 1 data N1_1291  AML complex aberrant karyotype
+GSM330180   MILES stage 1 data N1_0550  c-ALL/Pre-B-ALL without t(9;22)
+GSM329931   MILES stage 1 data N1_0301  T-ALL
+GSM329848   MILES stage 1 data N1_0218  T-ALL
+GSM331568   MILES stage 1 data N1_1932  MDS
+GSM331414   MILES stage 1 data N1_1778  CML
+GSM330867   MILES stage 1 data N1_1231  AML with normal karyotype + other abnormalities
+GSM330572   MILES stage 1 data N1_0936  AML with normal karyotype + other abnormalities
+GSM330535   MILES stage 1 data N1_0899  AML with normal karyotype + other abnormalities
+GSM330240   MILES stage 1 data N1_0610  c-ALL/Pre-B-ALL without t(9;22)
+GSM331554   MILES stage 1 data N1_1918  MDS
+GSM331305   MILES stage 1 data N1_1669  CLL
+GSM331222   MILES stage 1 data N1_1586  CLL
+GSM331059   MILES stage 1 data N1_1423  CLL
+GSM330973   MILES stage 1 data N1_1337  CLL
+GSM330727   MILES stage 1 data N1_1091  AML with normal karyotype + other abnormalities
+GSM330629   MILES stage 1 data N1_0993  AML with normal karyotype + other abnormalities
+GSM330226   MILES stage 1 data N1_0596  c-ALL/Pre-B-ALL without t(9;22)
+GSM329977   MILES stage 1 data N1_0347  T-ALL
+GSM329894   MILES stage 1 data N1_0264  T-ALL
+GSM331700   MILES stage 1 data N1_2064  Non-leukemia and healthy bone marrow
+GSM331614   MILES stage 1 data N1_1978  MDS
+GSM331368   MILES stage 1 data N1_1732  CLL
+GSM330913   MILES stage 1 data N1_1277  AML complex aberrant karyotype
+GSM330618   MILES stage 1 data N1_0982  AML with normal karyotype + other abnormalities
+GSM330581   MILES stage 1 data N1_0945  AML with normal karyotype + other abnormalities
+GSM330372   MILES stage 1 data N1_0736  c-ALL/Pre-B-ALL without t(9;22)
+GSM330286   MILES stage 1 data N1_0656  c-ALL/Pre-B-ALL without t(9;22)
+GSM330040   MILES stage 1 data N1_0410  ALL with t(12;21)
+GSM329942   MILES stage 1 data N1_0312  T-ALL
+GSM331268   MILES stage 1 data N1_1632  CLL
+GSM331013   MILES stage 1 data N1_1377  CLL
+GSM330675   MILES stage 1 data N1_1039  AML with normal karyotype + other abnormalities
+GSM330432   MILES stage 1 data N1_0796  AML with t(15;17)
+GSM330426   MILES stage 1 data N1_0790  AML with t(8;21)
+GSM330088   MILES stage 1 data N1_0458  ALL with t(1;19)
+GSM329839   MILES stage 1 data N1_0209  T-ALL
+GSM331660   MILES stage 1 data N1_2024  Non-leukemia and healthy bone marrow
+GSM331654   MILES stage 1 data N1_2018  MDS
+GSM331316   MILES stage 1 data N1_1680  CLL
+GSM331119   MILES stage 1 data N1_1483  CLL
+GSM331113   MILES stage 1 data N1_1477  CLL
+GSM330775   MILES stage 1 data N1_1139  AML with normal karyotype + other abnormalities
+GSM330332   MILES stage 1 data N1_0696  c-ALL/Pre-B-ALL without t(9;22)
+GSM330326   MILES stage 1 data N1_0690  c-ALL/Pre-B-ALL without t(9;22)
+GSM329988   MILES stage 1 data N1_0358  T-ALL
+GSM329785   MILES stage 1 data N1_0155  c-ALL/Pre-B-ALL with t(9;22)
+GSM329447   MILES stage 1 data N1_0041  Pro-B-ALL with t(11q23)/MLL
+GSM331462   MILES stage 1 data N1_1826  MDS
+GSM331213   MILES stage 1 data N1_1577  CLL
+GSM330967   MILES stage 1 data N1_1331  CLL
+GSM330721   MILES stage 1 data N1_1085  AML with normal karyotype + other abnormalities
+GSM330380   MILES stage 1 data N1_0744  c-ALL/Pre-B-ALL without t(9;22)
+GSM330134   MILES stage 1 data N1_0504  ALL with hyperdiploid karyotype
+GSM329885   MILES stage 1 data N1_0255  T-ALL
+GSM331608   MILES stage 1 data N1_1972  MDS
+GSM331362   MILES stage 1 data N1_1726  CLL
+GSM331067   MILES stage 1 data N1_1431  CLL
+GSM330821   MILES stage 1 data N1_1185  AML with normal karyotype + other abnormalities
+GSM330526   MILES stage 1 data N1_0890  AML with t(11q23)/MLL
+GSM330280   MILES stage 1 data N1_0650  c-ALL/Pre-B-ALL without t(9;22)
+GSM330034   MILES stage 1 data N1_0404  ALL with t(12;21)
+GSM329739   MILES stage 1 data N1_0109  c-ALL/Pre-B-ALL with t(9;22)
+GSM331431   MILES stage 1 data N1_1795  CML
+GSM331170   MILES stage 1 data N1_1534  CLL
+GSM331004   MILES stage 1 data N1_1368  CLL
+GSM330933   MILES stage 1 data N1_1297  CLL
+GSM330767   MILES stage 1 data N1_1131  AML with normal karyotype + other abnormalities
+GSM330506   MILES stage 1 data N1_0870  AML with t(11q23)/MLL
+GSM330435   MILES stage 1 data N1_0799  AML with t(15;17)
+GSM330269   MILES stage 1 data N1_0639  c-ALL/Pre-B-ALL without t(9;22)
+GSM330008   MILES stage 1 data N1_0378  T-ALL
+GSM331574   MILES stage 1 data N1_1938  MDS
+GSM331525   MILES stage 1 data N1_1889  MDS
+GSM331408   MILES stage 1 data N1_1772  CML
+GSM331359   MILES stage 1 data N1_1723  CLL
+GSM331076   MILES stage 1 data N1_1440  CLL
+GSM331027   MILES stage 1 data N1_1391  CLL
+GSM329914   MILES stage 1 data N1_0284  T-ALL
+GSM329865   MILES stage 1 data N1_0235  T-ALL
+GSM329416   MILES stage 1 data N1_0010  mature B-ALL with t(8;14)
+GSM330910   MILES stage 1 data N1_1274  AML complex aberrant karyotype
+GSM330861   MILES stage 1 data N1_1225  AML with normal karyotype + other abnormalities
+GSM330578   MILES stage 1 data N1_0942  AML with normal karyotype + other abnormalities
+GSM330529   MILES stage 1 data N1_0893  AML with t(11q23)/MLL
+GSM330412   MILES stage 1 data N1_0776  AML with t(8;21)
+GSM330363   MILES stage 1 data N1_0727  c-ALL/Pre-B-ALL without t(9;22)
+GSM331551   MILES stage 1 data N1_1915  MDS
+GSM331382   MILES stage 1 data N1_1746  CML
+GSM331219   MILES stage 1 data N1_1583  CLL
+GSM330718   MILES stage 1 data N1_1082  AML with normal karyotype + other abnormalities
+GSM330555   MILES stage 1 data N1_0919  AML with normal karyotype + other abnormalities
+GSM330386   MILES stage 1 data N1_0750  c-ALL/Pre-B-ALL without t(9;22)
+GSM329722   MILES stage 1 data N1_0092  c-ALL/Pre-B-ALL with t(9;22)
+GSM331196   MILES stage 1 data N1_1560  CLL
+GSM330741   MILES stage 1 data N1_1105  AML with normal karyotype + other abnormalities
+GSM330200   MILES stage 1 data N1_0570  c-ALL/Pre-B-ALL without t(9;22)
+GSM330151   MILES stage 1 data N1_0521  c-ALL/Pre-B-ALL without t(9;22)
+GSM330077   MILES stage 1 data N1_0447  ALL with t(1;19)
+GSM329745   MILES stage 1 data N1_0115  c-ALL/Pre-B-ALL with t(9;22)
+GSM329487   MILES stage 1 data N1_0081  Pro-B-ALL with t(11q23)/MLL
+GSM331600   MILES stage 1 data N1_1964  MDS
+GSM331594   MILES stage 1 data N1_1958  MDS
+GSM331102   MILES stage 1 data N1_1466  CLL
+GSM330343   MILES stage 1 data N1_0707  c-ALL/Pre-B-ALL without t(9;22)
+GSM330171   MILES stage 1 data N1_0541  c-ALL/Pre-B-ALL without t(9;22)
+GSM330100   MILES stage 1 data N1_0470  ALL with t(1;19)
+GSM329845   MILES stage 1 data N1_0215  T-ALL
+GSM329436   MILES stage 1 data N1_0030  Pro-B-ALL with t(11q23)/MLL
+GSM331617   MILES stage 1 data N1_1981  MDS
+GSM331451   MILES stage 1 data N1_1815  CML
+GSM330984   MILES stage 1 data N1_1348  CLL
+GSM330953   MILES stage 1 data N1_1317  CLL
+GSM330486   MILES stage 1 data N1_0850  AML with inv(16)/t(16;16)
+GSM330320   MILES stage 1 data N1_0684  c-ALL/Pre-B-ALL without t(9;22)
+GSM329822   MILES stage 1 data N1_0192  c-ALL/Pre-B-ALL with t(9;22)
+GSM331717   MILES stage 1 data N1_2081  Non-leukemia and healthy bone marrow
+GSM331643   MILES stage 1 data N1_2007  MDS
+GSM331545   MILES stage 1 data N1_1909  MDS
+GSM331474   MILES stage 1 data N1_1838  MDS
+GSM331053   MILES stage 1 data N1_1417  CLL
+GSM330884   MILES stage 1 data N1_1248  AML complex aberrant karyotype
+GSM330810   MILES stage 1 data N1_1174  AML with normal karyotype + other abnormalities
+GSM330463   MILES stage 1 data N1_0827  AML with t(15;17)
+GSM330392   MILES stage 1 data N1_0756  AML with t(8;21)
+GSM330220   MILES stage 1 data N1_0590  c-ALL/Pre-B-ALL without t(9;22)
+GSM329728   MILES stage 1 data N1_0098  c-ALL/Pre-B-ALL with t(9;22)
+GSM331694   MILES stage 1 data N1_2058  Non-leukemia and healthy bone marrow
+GSM330243   MILES stage 1 data N1_0613  c-ALL/Pre-B-ALL without t(9;22)
+GSM330194   MILES stage 1 data N1_0564  c-ALL/Pre-B-ALL without t(9;22)
+GSM331674   MILES stage 1 data N1_2038  Non-leukemia and healthy bone marrow
+GSM331425   MILES stage 1 data N1_1789  CML
+GSM330512   MILES stage 1 data N1_0876  AML with t(11q23)/MLL
+GSM330263   MILES stage 1 data N1_0633  c-ALL/Pre-B-ALL without t(9;22)
+GSM330014   MILES stage 1 data N1_0384  ALL with t(12;21)
+GSM329765   MILES stage 1 data N1_0135  c-ALL/Pre-B-ALL with t(9;22)
+GSM329410   MILES stage 1 data N1_0004  mature B-ALL with t(8;14)
+GSM331580   MILES stage 1 data N1_1944  MDS
+GSM331531   MILES stage 1 data N1_1895  MDS
+GSM331033   MILES stage 1 data N1_1397  CLL
+GSM330904   MILES stage 1 data N1_1268  AML complex aberrant karyotype
+GSM330406   MILES stage 1 data N1_0770  AML with t(8;21)
+GSM329908   MILES stage 1 data N1_0278  T-ALL
+GSM329871   MILES stage 1 data N1_0241  T-ALL
+GSM329859   MILES stage 1 data N1_0229  T-ALL
+GSM331723   MILES stage 1 data N1_2087  Non-leukemia and healthy bone marrow
+GSM331637   MILES stage 1 data N1_2001  MDS
+GSM331296   MILES stage 1 data N1_1660  CLL
+GSM331047   MILES stage 1 data N1_1411  CLL
+GSM330890   MILES stage 1 data N1_1254  AML complex aberrant karyotype
+GSM330641   MILES stage 1 data N1_1005  AML with normal karyotype + other abnormalities
+GSM330300   MILES stage 1 data N1_0670  c-ALL/Pre-B-ALL without t(9;22)
+GSM330214   MILES stage 1 data N1_0584  c-ALL/Pre-B-ALL without t(9;22)
+GSM330051   MILES stage 1 data N1_0421  ALL with t(12;21)
+GSM329965   MILES stage 1 data N1_0335  T-ALL
+GSM331282   MILES stage 1 data N1_1646  CLL
+GSM331245   MILES stage 1 data N1_1609  CLL
+GSM331233   MILES stage 1 data N1_1597  CLL
+GSM330704   MILES stage 1 data N1_1068  AML with normal karyotype + other abnormalities
+GSM330692   MILES stage 1 data N1_1056  AML with normal karyotype + other abnormalities
+GSM330655   MILES stage 1 data N1_1019  AML with normal karyotype + other abnormalities
+GSM331588   MILES stage 1 data N1_1952  MDS
+GSM331339   MILES stage 1 data N1_1703  CLL
+GSM331096   MILES stage 1 data N1_1460  CLL
+GSM331090   MILES stage 1 data N1_1454  CLL
+GSM330847   MILES stage 1 data N1_1211  AML with normal karyotype + other abnormalities
+GSM330841   MILES stage 1 data N1_1205  AML with normal karyotype + other abnormalities
+GSM330598   MILES stage 1 data N1_0962  AML with normal karyotype + other abnormalities
+GSM330349   MILES stage 1 data N1_0713  c-ALL/Pre-B-ALL without t(9;22)
+GSM329424   MILES stage 1 data N1_0018  Pro-B-ALL with t(11q23)/MLL
+GSM331488   MILES stage 1 data N1_1852  MDS
+GSM331482   MILES stage 1 data N1_1846  MDS
+GSM330996   MILES stage 1 data N1_1360  CLL
+GSM330990   MILES stage 1 data N1_1354  CLL
+GSM330947   MILES stage 1 data N1_1311  CLL
+GSM330941   MILES stage 1 data N1_1305  CLL
+GSM330498   MILES stage 1 data N1_0862  AML with t(11q23)/MLL
+GSM330455   MILES stage 1 data N1_0819  AML with t(15;17)
+GSM330449   MILES stage 1 data N1_0813  AML with t(15;17)
+GSM329957   MILES stage 1 data N1_0327  T-ALL
+GSM331631   MILES stage 1 data N1_1995  MDS
+GSM331388   MILES stage 1 data N1_1752  CML
+GSM331139   MILES stage 1 data N1_1503  CLL
+GSM330798   MILES stage 1 data N1_1162  AML with normal karyotype + other abnormalities
+GSM330549   MILES stage 1 data N1_0913  AML with normal karyotype + other abnormalities
+GSM330306   MILES stage 1 data N1_0676  c-ALL/Pre-B-ALL without t(9;22)
+GSM330057   MILES stage 1 data N1_0427  ALL with t(12;21)
+GSM329716   MILES stage 1 data N1_0086  c-ALL/Pre-B-ALL with t(9;22)
+GSM329467   MILES stage 1 data N1_0061  Pro-B-ALL with t(11q23)/MLL
+GSM331288   MILES stage 1 data N1_1652  CLL
+GSM331239   MILES stage 1 data N1_1603  CLL
+GSM330747   MILES stage 1 data N1_1111  AML with normal karyotype + other abnormalities
+GSM330698   MILES stage 1 data N1_1062  AML with normal karyotype + other abnormalities
+GSM330206   MILES stage 1 data N1_0576  c-ALL/Pre-B-ALL without t(9;22)
+GSM330157   MILES stage 1 data N1_0527  c-ALL/Pre-B-ALL without t(9;22)
+GSM331609   MILES stage 1 data N1_1973  MDS
+GSM331277   MILES stage 1 data N1_1641  CLL
+GSM330945   MILES stage 1 data N1_1309  CLL
+GSM330613   MILES stage 1 data N1_0977  AML with normal karyotype + other abnormalities
+GSM330281   MILES stage 1 data N1_0651  c-ALL/Pre-B-ALL without t(9;22)
+GSM330020   MILES stage 1 data N1_0390  ALL with t(12;21)
+GSM329949   MILES stage 1 data N1_0319  T-ALL
+GSM331586   MILES stage 1 data N1_1950  MDS
+GSM331254   MILES stage 1 data N1_1618  CLL
+GSM330922   MILES stage 1 data N1_1286  AML complex aberrant karyotype
+GSM330707   MILES stage 1 data N1_1071  AML with normal karyotype + other abnormalities
+GSM330590   MILES stage 1 data N1_0954  AML with normal karyotype + other abnormalities
+GSM330375   MILES stage 1 data N1_0739  c-ALL/Pre-B-ALL without t(9;22)
+GSM330258   MILES stage 1 data N1_0628  c-ALL/Pre-B-ALL without t(9;22)
+GSM330043   MILES stage 1 data N1_0413  ALL with t(12;21)
+GSM329926   MILES stage 1 data N1_0296  T-ALL
+GSM331563   MILES stage 1 data N1_1927  MDS
+GSM331492   MILES stage 1 data N1_1856  MDS
+GSM331394   MILES stage 1 data N1_1758  CML
+GSM331231   MILES stage 1 data N1_1595  CLL
+GSM331062   MILES stage 1 data N1_1426  CLL
+GSM330899   MILES stage 1 data N1_1263  AML complex aberrant karyotype
+GSM329734   MILES stage 1 data N1_0104  c-ALL/Pre-B-ALL with t(9;22)
+GSM330730   MILES stage 1 data N1_1094  AML with normal karyotype + other abnormalities
+GSM330567   MILES stage 1 data N1_0931  AML with normal karyotype + other abnormalities
+GSM330398   MILES stage 1 data N1_0762  AML with t(8;21)
+GSM330235   MILES stage 1 data N1_0605  c-ALL/Pre-B-ALL without t(9;22)
+GSM330066   MILES stage 1 data N1_0436  ALL with t(12;21)
+GSM329903   MILES stage 1 data N1_0273  T-ALL
+GSM331540   MILES stage 1 data N1_1904  MDS
+GSM331417   MILES stage 1 data N1_1781  CML
+GSM331208   MILES stage 1 data N1_1572  CLL
+GSM331085   MILES stage 1 data N1_1449  CLL
+GSM330876   MILES stage 1 data N1_1240  AML with normal karyotype + other abnormalities
+GSM330753   MILES stage 1 data N1_1117  AML with normal karyotype + other abnormalities
+GSM329425   MILES stage 1 data N1_0019  Pro-B-ALL with t(11q23)/MLL
+GSM330544   MILES stage 1 data N1_0908  AML with normal karyotype + other abnormalities
+GSM330421   MILES stage 1 data N1_0785  AML with t(8;21)
+GSM330212   MILES stage 1 data N1_0582  c-ALL/Pre-B-ALL without t(9;22)
+GSM330089   MILES stage 1 data N1_0459  ALL with t(1;19)
+GSM329880   MILES stage 1 data N1_0250  T-ALL
+GSM329757   MILES stage 1 data N1_0127  c-ALL/Pre-B-ALL with t(9;22)
+GSM331446   MILES stage 1 data N1_1810  CML
+GSM331108   MILES stage 1 data N1_1472  CLL
+GSM330853   MILES stage 1 data N1_1217  AML with normal karyotype + other abnormalities
+GSM330782   MILES stage 1 data N1_1146  AML with normal karyotype + other abnormalities
+GSM330444   MILES stage 1 data N1_0808  AML with t(15;17)
+GSM330189   MILES stage 1 data N1_0559  c-ALL/Pre-B-ALL without t(9;22)
+GSM330118   MILES stage 1 data N1_0488  ALL with hyperdiploid karyotype
+GSM329780   MILES stage 1 data N1_0150  c-ALL/Pre-B-ALL with t(9;22)
+GSM331469   MILES stage 1 data N1_1833  MDS
+GSM331346   MILES stage 1 data N1_1710  CLL
+GSM331131   MILES stage 1 data N1_1495  CLL
+GSM330805   MILES stage 1 data N1_1169  AML with normal karyotype + other abnormalities
+GSM330467   MILES stage 1 data N1_0831  AML with inv(16)/t(16;16)
+GSM330166   MILES stage 1 data N1_0536  c-ALL/Pre-B-ALL without t(9;22)
+GSM329803   MILES stage 1 data N1_0173  c-ALL/Pre-B-ALL with t(9;22)
+GSM329408   MILES stage 1 data N1_0002  mature B-ALL with t(8;14)
+GSM331400   MILES stage 1 data N1_1764  CML
+GSM331323   MILES stage 1 data N1_1687  CLL
+GSM331154   MILES stage 1 data N1_1518  CLL
+GSM330736   MILES stage 1 data N1_1100  AML with normal karyotype + other abnormalities
+GSM330659   MILES stage 1 data N1_1023  AML with normal karyotype + other abnormalities
+GSM330561   MILES stage 1 data N1_0925  AML with normal karyotype + other abnormalities
+GSM330490   MILES stage 1 data N1_0854  AML with inv(16)/t(16;16)
+GSM330072   MILES stage 1 data N1_0442  ALL with t(1;19)
+GSM329897   MILES stage 1 data N1_0267  T-ALL
+GSM329826   MILES stage 1 data N1_0196  c-ALL/Pre-B-ALL with t(9;22)
+GSM329479   MILES stage 1 data N1_0073  Pro-B-ALL with t(11q23)/MLL
+GSM331423   MILES stage 1 data N1_1787  CML
+GSM331300   MILES stage 1 data N1_1664  CLL
+GSM331177   MILES stage 1 data N1_1541  CLL
+GSM330759   MILES stage 1 data N1_1123  AML with normal karyotype + other abnormalities
+GSM330636   MILES stage 1 data N1_1000  AML with normal karyotype + other abnormalities
+GSM330513   MILES stage 1 data N1_0877  AML with t(11q23)/MLL
+GSM330095   MILES stage 1 data N1_0465  ALL with t(1;19)
+GSM329972   MILES stage 1 data N1_0342  T-ALL
+GSM329431   MILES stage 1 data N1_0025  Pro-B-ALL with t(11q23)/MLL
+GSM331615   MILES stage 1 data N1_1979  MDS
+GSM331603   MILES stage 1 data N1_1967  MDS
+GSM331354   MILES stage 1 data N1_1718  CLL
+GSM331271   MILES stage 1 data N1_1635  CLL
+GSM331022   MILES stage 1 data N1_1386  CLL
+GSM330275   MILES stage 1 data N1_0645  c-ALL/Pre-B-ALL without t(9;22)
+GSM330026   MILES stage 1 data N1_0396  ALL with t(12;21)
+GSM329943   MILES stage 1 data N1_0313  T-ALL
+GSM331709   MILES stage 1 data N1_2073  Non-leukemia and healthy bone marrow
+GSM331260   MILES stage 1 data N1_1624  CLL
+GSM330928   MILES stage 1 data N1_1292  AML complex aberrant karyotype
+GSM330916   MILES stage 1 data N1_1280  AML complex aberrant karyotype
+GSM330713   MILES stage 1 data N1_1077  AML with normal karyotype + other abnormalities
+GSM330584   MILES stage 1 data N1_0948  AML with normal karyotype + other abnormalities
+GSM330381   MILES stage 1 data N1_0745  c-ALL/Pre-B-ALL without t(9;22)
+GSM331649   MILES stage 1 data N1_2013  MDS
+GSM331317   MILES stage 1 data N1_1681  CLL
+GSM330321   MILES stage 1 data N1_0685  c-ALL/Pre-B-ALL without t(9;22)
+GSM329989   MILES stage 1 data N1_0359  T-ALL
+GSM329980   MILES stage 1 data N1_0350  T-ALL
+GSM330962   MILES stage 1 data N1_1326  CLL
+GSM330667   MILES stage 1 data N1_1031  AML with normal karyotype + other abnormalities
+GSM330630   MILES stage 1 data N1_0994  AML with normal karyotype + other abnormalities
+GSM330335   MILES stage 1 data N1_0699  c-ALL/Pre-B-ALL without t(9;22)
+GSM331363   MILES stage 1 data N1_1727  CLL
+GSM331114   MILES stage 1 data N1_1478  CLL
+GSM330776   MILES stage 1 data N1_1140  AML with normal karyotype + other abnormalities
+GSM330770   MILES stage 1 data N1_1134  AML with normal karyotype + other abnormalities
+GSM330527   MILES stage 1 data N1_0891  AML with t(11q23)/MLL
+GSM330521   MILES stage 1 data N1_0885  AML with t(11q23)/MLL
+GSM330035   MILES stage 1 data N1_0405  ALL with t(12;21)
+GSM329448   MILES stage 1 data N1_0042  Pro-B-ALL with t(11q23)/MLL
+GSM329442   MILES stage 1 data N1_0036  Pro-B-ALL with t(11q23)/MLL
+GSM331463   MILES stage 1 data N1_1827  MDS
+GSM331457   MILES stage 1 data N1_1821  MDS
+GSM331168   MILES stage 1 data N1_1532  CLL
+GSM330676   MILES stage 1 data N1_1040  AML with normal karyotype + other abnormalities
+GSM330135   MILES stage 1 data N1_0505  ALL with hyperdiploid karyotype
+GSM330129   MILES stage 1 data N1_0499  ALL with hyperdiploid karyotype
+GSM329840   MILES stage 1 data N1_0210  T-ALL
+GSM329834   MILES stage 1 data N1_0204  c-ALL/Pre-B-ALL with t(9;22)
+GSM331655   MILES stage 1 data N1_2019  MDS
+GSM331068   MILES stage 1 data N1_1432  CLL
+GSM330822   MILES stage 1 data N1_1186  AML with normal karyotype + other abnormalities
+GSM330573   MILES stage 1 data N1_0937  AML with normal karyotype + other abnormalities
+GSM330229   MILES stage 1 data N1_0599  c-ALL/Pre-B-ALL without t(9;22)
+GSM329740   MILES stage 1 data N1_0110  c-ALL/Pre-B-ALL with t(9;22)
+GSM331509   MILES stage 1 data N1_1873  MDS
+GSM331214   MILES stage 1 data N1_1578  CLL
+GSM330968   MILES stage 1 data N1_1332  CLL
+GSM330722   MILES stage 1 data N1_1086  AML with normal karyotype + other abnormalities
+GSM330427   MILES stage 1 data N1_0791  AML with t(15;17)
+GSM330181   MILES stage 1 data N1_0551  c-ALL/Pre-B-ALL without t(9;22)
+GSM330083   MILES stage 1 data N1_0453  ALL with t(1;19)
+GSM329886   MILES stage 1 data N1_0256  T-ALL
+GSM331526   MILES stage 1 data N1_1890  MDS
+GSM331360   MILES stage 1 data N1_1724  CLL
+GSM331028   MILES stage 1 data N1_1392  CLL
+GSM330862   MILES stage 1 data N1_1226  AML with normal karyotype + other abnormalities
+GSM330530   MILES stage 1 data N1_0894  AML with normal karyotype + other abnormalities
+GSM330364   MILES stage 1 data N1_0728  c-ALL/Pre-B-ALL without t(9;22)
+GSM329866   MILES stage 1 data N1_0236  T-ALL
+GSM329439   MILES stage 1 data N1_0033  Pro-B-ALL with t(11q23)/MLL
+GSM331383   MILES stage 1 data N1_1747  CML
+GSM330885   MILES stage 1 data N1_1249  AML complex aberrant karyotype
+GSM330719   MILES stage 1 data N1_1083  AML with normal karyotype + other abnormalities
+GSM330387   MILES stage 1 data N1_0751  AML with t(8;21)
+GSM330221   MILES stage 1 data N1_0591  c-ALL/Pre-B-ALL without t(9;22)
+GSM329889   MILES stage 1 data N1_0259  T-ALL
+GSM329723   MILES stage 1 data N1_0093  c-ALL/Pre-B-ALL with t(9;22)
+GSM331575   MILES stage 1 data N1_1939  MDS
+GSM331477   MILES stage 1 data N1_1841  MDS
+GSM331148   MILES stage 1 data N1_1512  CLL
+GSM330813   MILES stage 1 data N1_1177  AML with normal karyotype + other abnormalities
+GSM330742   MILES stage 1 data N1_1106  AML with normal karyotype + other abnormalities
+GSM330481   MILES stage 1 data N1_0845  AML with inv(16)/t(16;16)
+GSM330152   MILES stage 1 data N1_0522  c-ALL/Pre-B-ALL without t(9;22)
+GSM329817   MILES stage 1 data N1_0187  c-ALL/Pre-B-ALL with t(9;22)
+GSM329488   MILES stage 1 data N1_0082  Pro-B-ALL with t(11q23)/MLL
+GSM331552   MILES stage 1 data N1_1916  MDS
+GSM331503   MILES stage 1 data N1_1867  MDS
+GSM331220   MILES stage 1 data N1_1584  CLL
+GSM331171   MILES stage 1 data N1_1535  CLL
+GSM330507   MILES stage 1 data N1_0871  AML with t(11q23)/MLL
+GSM330458   MILES stage 1 data N1_0822  AML with t(15;17)
+GSM329462   MILES stage 1 data N1_0056  Pro-B-ALL with t(11q23)/MLL
+GSM331695   MILES stage 1 data N1_2059  Non-leukemia and healthy bone marrow
+GSM331689   MILES stage 1 data N1_2053  Non-leukemia and healthy bone marrow
+GSM331197   MILES stage 1 data N1_1561  CLL
+GSM330936   MILES stage 1 data N1_1300  CLL
+GSM330438   MILES stage 1 data N1_0802  AML with t(15;17)
+GSM330272   MILES stage 1 data N1_0642  c-ALL/Pre-B-ALL without t(9;22)
+GSM330195   MILES stage 1 data N1_0565  c-ALL/Pre-B-ALL without t(9;22)
+GSM329774   MILES stage 1 data N1_0144  c-ALL/Pre-B-ALL with t(9;22)
+GSM330836   MILES stage 1 data N1_1200  AML with normal karyotype + other abnormalities
+GSM330344   MILES stage 1 data N1_0708  c-ALL/Pre-B-ALL without t(9;22)
+GSM330338   MILES stage 1 data N1_0702  c-ALL/Pre-B-ALL without t(9;22)
+GSM330295   MILES stage 1 data N1_0665  c-ALL/Pre-B-ALL without t(9;22)
+GSM330172   MILES stage 1 data N1_0542  c-ALL/Pre-B-ALL without t(9;22)
+GSM329846   MILES stage 1 data N1_0216  T-ALL
+GSM329797   MILES stage 1 data N1_0167  c-ALL/Pre-B-ALL with t(9;22)
+GSM331646   MILES stage 1 data N1_2010  MDS
+GSM331569   MILES stage 1 data N1_1933  MDS
+GSM330979   MILES stage 1 data N1_1343  CLL
+GSM330905   MILES stage 1 data N1_1269  AML complex aberrant karyotype
+GSM330487   MILES stage 1 data N1_0851  AML with inv(16)/t(16;16)
+GSM330146   MILES stage 1 data N1_0516  c-ALL/Pre-B-ALL without t(9;22)
+GSM329823   MILES stage 1 data N1_0193  c-ALL/Pre-B-ALL with t(9;22)
+GSM329482   MILES stage 1 data N1_0076  Pro-B-ALL with t(11q23)/MLL
+GSM331718   MILES stage 1 data N1_2082  Non-leukemia and healthy bone marrow
+GSM331669   MILES stage 1 data N1_2033  Non-leukemia and healthy bone marrow
+GSM331595   MILES stage 1 data N1_1959  MDS
+GSM331546   MILES stage 1 data N1_1910  MDS
+GSM331128   MILES stage 1 data N1_1492  CLL
+GSM331054   MILES stage 1 data N1_1418  CLL
+GSM331005   MILES stage 1 data N1_1369  CLL
+GSM330464   MILES stage 1 data N1_0828  AML with inv(16)/t(16;16)
+GSM331532   MILES stage 1 data N1_1896  MDS
+GSM331283   MILES stage 1 data N1_1647  CLL
+GSM331034   MILES stage 1 data N1_1398  CLL
+GSM330856   MILES stage 1 data N1_1220  AML with normal karyotype + other abnormalities
+GSM330607   MILES stage 1 data N1_0971  AML with normal karyotype + other abnormalities
+GSM330358   MILES stage 1 data N1_0722  c-ALL/Pre-B-ALL without t(9;22)
+GSM330109   MILES stage 1 data N1_0479  ALL with hyperdiploid karyotype
+GSM329860   MILES stage 1 data N1_0230  T-ALL
+GSM331426   MILES stage 1 data N1_1790  CML
+GSM331377   MILES stage 1 data N1_1741  CML
+GSM331248   MILES stage 1 data N1_1612  CLL
+GSM330750   MILES stage 1 data N1_1114  AML with normal karyotype + other abnormalities
+GSM330264   MILES stage 1 data N1_0634  c-ALL/Pre-B-ALL without t(9;22)
+GSM330252   MILES stage 1 data N1_0622  c-ALL/Pre-B-ALL without t(9;22)
+GSM330215   MILES stage 1 data N1_0585  c-ALL/Pre-B-ALL without t(9;22)
+GSM329754   MILES stage 1 data N1_0124  c-ALL/Pre-B-ALL with t(9;22)
+GSM329717   MILES stage 1 data N1_0087  c-ALL/Pre-B-ALL with t(9;22)
+GSM329411   MILES stage 1 data N1_0005  mature B-ALL with t(8;14)
+GSM331234   MILES stage 1 data N1_1598  CLL
+GSM330985   MILES stage 1 data N1_1349  CLL
+GSM330656   MILES stage 1 data N1_1020  AML with normal karyotype + other abnormalities
+GSM330407   MILES stage 1 data N1_0771  AML with t(8;21)
+GSM330395   MILES stage 1 data N1_0759  AML with t(8;21)
+GSM331675   MILES stage 1 data N1_2039  Non-leukemia and healthy bone marrow
+GSM331626   MILES stage 1 data N1_1990  MDS
+GSM331589   MILES stage 1 data N1_1953  MDS
+GSM331048   MILES stage 1 data N1_1412  CLL
+GSM330999   MILES stage 1 data N1_1363  CLL
+GSM330593   MILES stage 1 data N1_0957  AML with normal karyotype + other abnormalities
+GSM330052   MILES stage 1 data N1_0422  ALL with t(12;21)
+GSM330003   MILES stage 1 data N1_0373  T-ALL
+GSM329966   MILES stage 1 data N1_0336  T-ALL
+GSM329917   MILES stage 1 data N1_0287  T-ALL
+GSM331440   MILES stage 1 data N1_1804  CML
+GSM331191   MILES stage 1 data N1_1555  CLL
+GSM330948   MILES stage 1 data N1_1312  CLL
+GSM330942   MILES stage 1 data N1_1306  CLL
+GSM330699   MILES stage 1 data N1_1063  AML with normal karyotype + other abnormalities
+GSM330693   MILES stage 1 data N1_1057  AML with normal karyotype + other abnormalities
+GSM330450   MILES stage 1 data N1_0814  AML with t(15;17)
+GSM330201   MILES stage 1 data N1_0571  c-ALL/Pre-B-ALL without t(9;22)
+GSM331340   MILES stage 1 data N1_1704  CLL
+GSM331334   MILES stage 1 data N1_1698  CLL
+GSM331291   MILES stage 1 data N1_1655  CLL
+GSM330842   MILES stage 1 data N1_1206  AML with normal karyotype + other abnormalities
+GSM330799   MILES stage 1 data N1_1163  AML with normal karyotype + other abnormalities
+GSM330793   MILES stage 1 data N1_1157  AML with normal karyotype + other abnormalities
+GSM330301   MILES stage 1 data N1_0671  c-ALL/Pre-B-ALL without t(9;22)
+GSM331732   MILES stage 1 data N1_2096  Non-leukemia and healthy bone marrow
+GSM331483   MILES stage 1 data N1_1847  MDS
+GSM331240   MILES stage 1 data N1_1604  CLL
+GSM330991   MILES stage 1 data N1_1355  CLL
+GSM330650   MILES stage 1 data N1_1014  AML with normal karyotype + other abnormalities
+GSM330401   MILES stage 1 data N1_0765  AML with t(8;21)
+GSM330158   MILES stage 1 data N1_0528  c-ALL/Pre-B-ALL without t(9;22)
+GSM329909   MILES stage 1 data N1_0279  T-ALL
+GSM331632   MILES stage 1 data N1_1996  MDS
+GSM331583   MILES stage 1 data N1_1947  MDS
+GSM331091   MILES stage 1 data N1_1455  CLL
+GSM331042   MILES stage 1 data N1_1406  CLL
+GSM330550   MILES stage 1 data N1_0914  AML with normal karyotype + other abnormalities
+GSM330501   MILES stage 1 data N1_0865  AML with t(11q23)/MLL
+GSM330009   MILES stage 1 data N1_0379  T-ALL
+GSM329960   MILES stage 1 data N1_0330  T-ALL
+GSM329468   MILES stage 1 data N1_0062  Pro-B-ALL with t(11q23)/MLL
+GSM329419   MILES stage 1 data N1_0013  mature B-ALL with t(8;14)
+GSM331443   MILES stage 1 data N1_1807  CML
+GSM331111   MILES stage 1 data N1_1475  CLL
+GSM330779   MILES stage 1 data N1_1143  AML with normal karyotype + other abnormalities
+GSM330447   MILES stage 1 data N1_0811  AML with t(15;17)
+GSM330115   MILES stage 1 data N1_0485  ALL with hyperdiploid karyotype
+GSM329854   MILES stage 1 data N1_0224  T-ALL
+GSM329783   MILES stage 1 data N1_0153  c-ALL/Pre-B-ALL with t(9;22)
+GSM329451   MILES stage 1 data N1_0045  Pro-B-ALL with t(11q23)/MLL
+GSM331420   MILES stage 1 data N1_1784  CML
+GSM331088   MILES stage 1 data N1_1452  CLL
+GSM330756   MILES stage 1 data N1_1120  AML with normal karyotype + other abnormalities
+GSM330541   MILES stage 1 data N1_0905  AML with normal karyotype + other abnormalities
+GSM330424   MILES stage 1 data N1_0788  AML with t(8;21)
+GSM330209   MILES stage 1 data N1_0579  c-ALL/Pre-B-ALL without t(9;22)
+GSM330092   MILES stage 1 data N1_0462  ALL with t(1;19)
+GSM329877   MILES stage 1 data N1_0247  T-ALL
+GSM329760   MILES stage 1 data N1_0130  c-ALL/Pre-B-ALL with t(9;22)
+GSM329428   MILES stage 1 data N1_0022  Pro-B-ALL with t(11q23)/MLL
+GSM331489   MILES stage 1 data N1_1853  MDS
+GSM331157   MILES stage 1 data N1_1521  CLL
+GSM330825   MILES stage 1 data N1_1189  AML with normal karyotype + other abnormalities
+GSM330493   MILES stage 1 data N1_0857  AML with t(11q23)/MLL
+GSM331466   MILES stage 1 data N1_1830  MDS
+GSM331134   MILES stage 1 data N1_1498  CLL
+GSM330802   MILES stage 1 data N1_1166  AML with normal karyotype + other abnormalities
+GSM330470   MILES stage 1 data N1_0834  AML with inv(16)/t(16;16)
+GSM330138   MILES stage 1 data N1_0508  ALL with hyperdiploid karyotype
+GSM329806   MILES stage 1 data N1_0176  c-ALL/Pre-B-ALL with t(9;22)
+GSM331280   MILES stage 1 data N1_1644  CLL
+GSM331274   MILES stage 1 data N1_1638  CLL
+GSM330687   MILES stage 1 data N1_1051  AML with normal karyotype + other abnormalities
+GSM330616   MILES stage 1 data N1_0980  AML with normal karyotype + other abnormalities
+GSM330610   MILES stage 1 data N1_0974  AML with normal karyotype + other abnormalities
+GSM330023   MILES stage 1 data N1_0393  ALL with t(12;21)
+GSM329952   MILES stage 1 data N1_0322  T-ALL
+GSM329946   MILES stage 1 data N1_0316  T-ALL
+GSM331303   MILES stage 1 data N1_1667  CLL
+GSM331297   MILES stage 1 data N1_1661  CLL
+GSM331180   MILES stage 1 data N1_1544  CLL
+GSM330639   MILES stage 1 data N1_1003  AML with normal karyotype + other abnormalities
+GSM330633   MILES stage 1 data N1_0997  AML with normal karyotype + other abnormalities
+GSM330000   MILES stage 1 data N1_0370  T-ALL
+GSM329969   MILES stage 1 data N1_0339  T-ALL
+GSM331397   MILES stage 1 data N1_1761  CML
+GSM331228   MILES stage 1 data N1_1592  CLL
+GSM330733   MILES stage 1 data N1_1097  AML with normal karyotype + other abnormalities
+GSM330564   MILES stage 1 data N1_0928  AML with normal karyotype + other abnormalities
+GSM330069   MILES stage 1 data N1_0439  ALL with t(1;19)
+GSM329900   MILES stage 1 data N1_0270  T-ALL
+GSM331374   MILES stage 1 data N1_1738  CLL
+GSM331251   MILES stage 1 data N1_1615  CLL
+GSM330710   MILES stage 1 data N1_1074  AML with normal karyotype + other abnormalities
+GSM330587   MILES stage 1 data N1_0951  AML with normal karyotype + other abnormalities
+GSM330046   MILES stage 1 data N1_0416  ALL with t(12;21)
+GSM329923   MILES stage 1 data N1_0293  T-ALL
+GSM331698   MILES stage 1 data N1_2062  Non-leukemia and healthy bone marrow
+GSM331520   MILES stage 1 data N1_1884  MDS
+GSM331449   MILES stage 1 data N1_1813  CML
+GSM331366   MILES stage 1 data N1_1730  CLL
+GSM331117   MILES stage 1 data N1_1481  CLL
+GSM331105   MILES stage 1 data N1_1469  CLL
+GSM330773   MILES stage 1 data N1_1137  AML with normal karyotype + other abnormalities
+GSM330524   MILES stage 1 data N1_0888  AML with t(11q23)/MLL
+GSM330192   MILES stage 1 data N1_0562  c-ALL/Pre-B-ALL without t(9;22)
+GSM329777   MILES stage 1 data N1_0147  c-ALL/Pre-B-ALL with t(9;22)
+GSM329445   MILES stage 1 data N1_0039  Pro-B-ALL with t(11q23)/MLL
+GSM331211   MILES stage 1 data N1_1575  CLL
+GSM330879   MILES stage 1 data N1_1243  AML complex aberrant karyotype
+GSM330762   MILES stage 1 data N1_1126  AML with normal karyotype + other abnormalities
+GSM330430   MILES stage 1 data N1_0794  AML with t(15;17)
+GSM330418   MILES stage 1 data N1_0782  AML with t(8;21)
+GSM330086   MILES stage 1 data N1_0456  ALL with t(1;19)
+GSM329883   MILES stage 1 data N1_0253  T-ALL
+GSM331652   MILES stage 1 data N1_2016  MDS
+GSM331566   MILES stage 1 data N1_1930  MDS
+GSM331403   MILES stage 1 data N1_1767  CML
+GSM331320   MILES stage 1 data N1_1684  CLL
+GSM331071   MILES stage 1 data N1_1435  CLL
+GSM330570   MILES stage 1 data N1_0934  AML with normal karyotype + other abnormalities
+GSM330324   MILES stage 1 data N1_0688  c-ALL/Pre-B-ALL without t(9;22)
+GSM330238   MILES stage 1 data N1_0608  c-ALL/Pre-B-ALL without t(9;22)
+GSM330075   MILES stage 1 data N1_0445  ALL with t(1;19)
+GSM329992   MILES stage 1 data N1_0362  T-ALL
+GSM329743   MILES stage 1 data N1_0113  c-ALL/Pre-B-ALL with t(9;22)
+GSM329731   MILES stage 1 data N1_0101  c-ALL/Pre-B-ALL with t(9;22)
+GSM331712   MILES stage 1 data N1_2076  Non-leukemia and healthy bone marrow
+GSM331257   MILES stage 1 data N1_1621  CLL
+GSM331011   MILES stage 1 data N1_1375  CLL
+GSM330925   MILES stage 1 data N1_1289  AML complex aberrant karyotype
+GSM330716   MILES stage 1 data N1_1080  AML with normal karyotype + other abnormalities
+GSM330679   MILES stage 1 data N1_1043  AML with normal karyotype + other abnormalities
+GSM330384   MILES stage 1 data N1_0748  c-ALL/Pre-B-ALL without t(9;22)
+GSM329929   MILES stage 1 data N1_0299  T-ALL
+GSM331612   MILES stage 1 data N1_1976  MDS
+GSM331606   MILES stage 1 data N1_1970  MDS
+GSM331357   MILES stage 1 data N1_1721  CLL
+GSM331019   MILES stage 1 data N1_1383  CLL
+GSM330865   MILES stage 1 data N1_1229  AML with normal karyotype + other abnormalities
+GSM330284   MILES stage 1 data N1_0654  c-ALL/Pre-B-ALL without t(9;22)
+GSM330278   MILES stage 1 data N1_0648  c-ALL/Pre-B-ALL without t(9;22)
+GSM330029   MILES stage 1 data N1_0399  ALL with t(12;21)
+GSM329940   MILES stage 1 data N1_0310  T-ALL
+GSM331512   MILES stage 1 data N1_1876  MDS
+GSM331506   MILES stage 1 data N1_1870  MDS
+GSM330971   MILES stage 1 data N1_1335  CLL
+GSM330965   MILES stage 1 data N1_1329  CLL
+GSM330670   MILES stage 1 data N1_1034  AML with normal karyotype + other abnormalities
+GSM330627   MILES stage 1 data N1_0991  AML with normal karyotype + other abnormalities
+GSM330178   MILES stage 1 data N1_0548  c-ALL/Pre-B-ALL without t(9;22)
+GSM329791   MILES stage 1 data N1_0161  c-ALL/Pre-B-ALL with t(9;22)
+GSM331658   MILES stage 1 data N1_2022  MDS
+GSM331560   MILES stage 1 data N1_1924  MDS
+GSM331311   MILES stage 1 data N1_1675  CLL
+GSM331314   MILES stage 1 data N1_1678  CLL
+GSM331065   MILES stage 1 data N1_1429  CLL
+GSM330819   MILES stage 1 data N1_1183  AML with normal karyotype + other abnormalities
+GSM329491   MILES stage 1 data N1_0085  c-ALL/Pre-B-ALL with t(9;22)
+GSM330576   MILES stage 1 data N1_0940  AML with normal karyotype + other abnormalities
+GSM330478   MILES stage 1 data N1_0842  AML with inv(16)/t(16;16)
+GSM330232   MILES stage 1 data N1_0602  c-ALL/Pre-B-ALL without t(9;22)
+GSM329986   MILES stage 1 data N1_0356  T-ALL
+GSM329983   MILES stage 1 data N1_0353  T-ALL
+GSM329737   MILES stage 1 data N1_0107  c-ALL/Pre-B-ALL with t(9;22)
+GSM331706   MILES stage 1 data N1_2070  Non-leukemia and healthy bone marrow
+GSM331460   MILES stage 1 data N1_1824  MDS
+GSM331263   MILES stage 1 data N1_1627  CLL
+GSM331165   MILES stage 1 data N1_1529  CLL
+GSM330919   MILES stage 1 data N1_1283  AML complex aberrant karyotype
+GSM330673   MILES stage 1 data N1_1037  AML with normal karyotype + other abnormalities
+GSM330624   MILES stage 1 data N1_0988  AML with normal karyotype + other abnormalities
+GSM330378   MILES stage 1 data N1_0742  c-ALL/Pre-B-ALL without t(9;22)
+GSM330132   MILES stage 1 data N1_0502  ALL with hyperdiploid karyotype
+GSM329837   MILES stage 1 data N1_0207  T-ALL
+GSM331692   MILES stage 1 data N1_2056  Non-leukemia and healthy bone marrow
+GSM331194   MILES stage 1 data N1_1558  CLL
+GSM330696   MILES stage 1 data N1_1060  AML with normal karyotype + other abnormalities
+GSM330198   MILES stage 1 data N1_0568  c-ALL/Pre-B-ALL without t(9;22)
+GSM330032   MILES stage 1 data N1_0402  ALL with t(12;21)
+GSM329937   MILES stage 1 data N1_0307  T-ALL
+GSM329771   MILES stage 1 data N1_0141  c-ALL/Pre-B-ALL with t(9;22)
+GSM331715   MILES stage 1 data N1_2079  Non-leukemia and healthy bone marrow
+GSM331549   MILES stage 1 data N1_1913  MDS
+GSM331217   MILES stage 1 data N1_1581  CLL
+GSM331051   MILES stage 1 data N1_1415  CLL
+GSM330553   MILES stage 1 data N1_0917  AML with normal karyotype + other abnormalities
+GSM330055   MILES stage 1 data N1_0425  ALL with t(12;21)
+GSM331480   MILES stage 1 data N1_1844  MDS
+GSM331406   MILES stage 1 data N1_1770  CML
+GSM331145   MILES stage 1 data N1_1509  CLL
+GSM331074   MILES stage 1 data N1_1438  CLL
+GSM330816   MILES stage 1 data N1_1180  AML with normal karyotype + other abnormalities
+GSM330484   MILES stage 1 data N1_0848  AML with inv(16)/t(16;16)
+GSM330410   MILES stage 1 data N1_0774  AML with t(8;21)
+GSM330149   MILES stage 1 data N1_0519  c-ALL/Pre-B-ALL without t(9;22)
+GSM329820   MILES stage 1 data N1_0190  c-ALL/Pre-B-ALL with t(9;22)
+GSM329485   MILES stage 1 data N1_0079  Pro-B-ALL with t(11q23)/MLL
+GSM331429   MILES stage 1 data N1_1793  CML
+GSM330888   MILES stage 1 data N1_1252  AML complex aberrant karyotype
+GSM330839   MILES stage 1 data N1_1203  AML with normal karyotype + other abnormalities
+GSM330790   MILES stage 1 data N1_1154  AML with normal karyotype + other abnormalities
+GSM330175   MILES stage 1 data N1_0545  c-ALL/Pre-B-ALL without t(9;22)
+GSM330126   MILES stage 1 data N1_0496  ALL with hyperdiploid karyotype
+GSM329843   MILES stage 1 data N1_0213  T-ALL
+GSM329794   MILES stage 1 data N1_0164  c-ALL/Pre-B-ALL with t(9;22)
+GSM331523   MILES stage 1 data N1_1887  MDS
+GSM331031   MILES stage 1 data N1_1395  CLL
+GSM331025   MILES stage 1 data N1_1389  CLL
+GSM330859   MILES stage 1 data N1_1223  AML with normal karyotype + other abnormalities
+GSM330533   MILES stage 1 data N1_0897  AML with normal karyotype + other abnormalities
+GSM330367   MILES stage 1 data N1_0731  c-ALL/Pre-B-ALL without t(9;22)
+GSM330361   MILES stage 1 data N1_0725  c-ALL/Pre-B-ALL without t(9;22)
+GSM329869   MILES stage 1 data N1_0239  T-ALL
+GSM331672   MILES stage 1 data N1_2036  Non-leukemia and healthy bone marrow
+GSM331666   MILES stage 1 data N1_2030  Non-leukemia and healthy bone marrow
+GSM331623   MILES stage 1 data N1_1987  MDS
+GSM331500   MILES stage 1 data N1_1864  MDS
+GSM331174   MILES stage 1 data N1_1538  CLL
+GSM331125   MILES stage 1 data N1_1489  CLL
+GSM331008   MILES stage 1 data N1_1372  CLL
+GSM331002   MILES stage 1 data N1_1366  CLL
+GSM330959   MILES stage 1 data N1_1323  CLL
+GSM330510   MILES stage 1 data N1_0874  AML with t(11q23)/MLL
+GSM330461   MILES stage 1 data N1_0825  AML with t(15;17)
+GSM329459   MILES stage 1 data N1_0053  Pro-B-ALL with t(11q23)/MLL
+GSM331572   MILES stage 1 data N1_1936  MDS
+GSM331151   MILES stage 1 data N1_1515  CLL
+GSM330982   MILES stage 1 data N1_1346  CLL
+GSM330908   MILES stage 1 data N1_1272  AML complex aberrant karyotype
+GSM330318   MILES stage 1 data N1_0682  c-ALL/Pre-B-ALL without t(9;22)
+GSM330241   MILES stage 1 data N1_0611  c-ALL/Pre-B-ALL without t(9;22)
+GSM330882   MILES stage 1 data N1_1246  AML complex aberrant karyotype
+GSM330833   MILES stage 1 data N1_1197  AML with normal karyotype + other abnormalities
+GSM330341   MILES stage 1 data N1_0705  c-ALL/Pre-B-ALL without t(9;22)
+GSM330292   MILES stage 1 data N1_0662  c-ALL/Pre-B-ALL without t(9;22)
+GSM330218   MILES stage 1 data N1_0588  c-ALL/Pre-B-ALL without t(9;22)
+GSM330169   MILES stage 1 data N1_0539  c-ALL/Pre-B-ALL without t(9;22)
+GSM329800   MILES stage 1 data N1_0170  c-ALL/Pre-B-ALL with t(9;22)
+GSM329751   MILES stage 1 data N1_0121  c-ALL/Pre-B-ALL with t(9;22)
+GSM331686   MILES stage 1 data N1_2050  Non-leukemia and healthy bone marrow
+GSM331437   MILES stage 1 data N1_1801  CML
+GSM331200   MILES stage 1 data N1_1564  CLL
+GSM331188   MILES stage 1 data N1_1552  CLL
+GSM330951   MILES stage 1 data N1_1315  CLL
+GSM330939   MILES stage 1 data N1_1303  CLL
+GSM330690   MILES stage 1 data N1_1054  AML with normal karyotype + other abnormalities
+GSM330441   MILES stage 1 data N1_0805  AML with t(15;17)
+GSM331721   MILES stage 1 data N1_2085  Non-leukemia and healthy bone marrow
+GSM331592   MILES stage 1 data N1_1956  MDS
+GSM331543   MILES stage 1 data N1_1907  MDS
+GSM331094   MILES stage 1 data N1_1458  CLL
+GSM331082   MILES stage 1 data N1_1446  CLL
+GSM331045   MILES stage 1 data N1_1409  CLL
+GSM330596   MILES stage 1 data N1_0960  AML with normal karyotype + other abnormalities
+GSM330547   MILES stage 1 data N1_0911  AML with normal karyotype + other abnormalities
+GSM330049   MILES stage 1 data N1_0419  ALL with t(12;21)
+GSM329920   MILES stage 1 data N1_0290  T-ALL
+GSM329422   MILES stage 1 data N1_0016  Pro-B-ALL with t(11q23)/MLL
+GSM330988   MILES stage 1 data N1_1352  CLL
+GSM330902   MILES stage 1 data N1_1266  AML complex aberrant karyotype
+GSM330739   MILES stage 1 data N1_1103  AML with normal karyotype + other abnormalities
+GSM330653   MILES stage 1 data N1_1017  AML with normal karyotype + other abnormalities
+GSM330063   MILES stage 1 data N1_0433  ALL with t(12;21)
+GSM329906   MILES stage 1 data N1_0276  T-ALL
+GSM331380   MILES stage 1 data N1_1744  CML
+GSM331343   MILES stage 1 data N1_1707  CLL
+GSM331331   MILES stage 1 data N1_1695  CLL
+GSM331294   MILES stage 1 data N1_1658  CLL
+GSM330347   MILES stage 1 data N1_0711  c-ALL/Pre-B-ALL without t(9;22)
+GSM330298   MILES stage 1 data N1_0668  c-ALL/Pre-B-ALL without t(9;22)
+GSM330261   MILES stage 1 data N1_0631  c-ALL/Pre-B-ALL without t(9;22)
+GSM330249   MILES stage 1 data N1_0619  c-ALL/Pre-B-ALL without t(9;22)
+GSM329720   MILES stage 1 data N1_0090  c-ALL/Pre-B-ALL with t(9;22)
+GSM331529   MILES stage 1 data N1_1893  MDS
+GSM330604   MILES stage 1 data N1_0968  AML with normal karyotype + other abnormalities
+GSM330355   MILES stage 1 data N1_0719  c-ALL/Pre-B-ALL without t(9;22)
+GSM330112   MILES stage 1 data N1_0482  ALL with hyperdiploid karyotype
+GSM330106   MILES stage 1 data N1_0476  ALL with hyperdiploid karyotype
+GSM329863   MILES stage 1 data N1_0233  T-ALL
+GSM329857   MILES stage 1 data N1_0227  T-ALL
+GSM331678   MILES stage 1 data N1_2042  Non-leukemia and healthy bone marrow
+GSM331635   MILES stage 1 data N1_1999  MDS
+GSM331629   MILES stage 1 data N1_1993  MDS
+GSM331137   MILES stage 1 data N1_1501  CLL
+GSM330504   MILES stage 1 data N1_0868  AML with t(11q23)/MLL
+GSM330012   MILES stage 1 data N1_0382  ALL with t(12;21)
+GSM330006   MILES stage 1 data N1_0376  T-ALL
+GSM329963   MILES stage 1 data N1_0333  T-ALL
+GSM329471   MILES stage 1 data N1_0065  Pro-B-ALL with t(11q23)/MLL
+GSM329465   MILES stage 1 data N1_0059  Pro-B-ALL with t(11q23)/MLL
+GSM331729   MILES stage 1 data N1_2093  Non-leukemia and healthy bone marrow
+GSM331486   MILES stage 1 data N1_1850  MDS
+GSM331237   MILES stage 1 data N1_1601  CLL
+GSM330896   MILES stage 1 data N1_1260  AML complex aberrant karyotype
+GSM330647   MILES stage 1 data N1_1011  AML with normal karyotype + other abnormalities
+GSM330404   MILES stage 1 data N1_0768  AML with t(8;21)
+GSM330155   MILES stage 1 data N1_0525  c-ALL/Pre-B-ALL without t(9;22)
+GSM329814   MILES stage 1 data N1_0184  c-ALL/Pre-B-ALL with t(9;22)
+GSM331386   MILES stage 1 data N1_1750  CML
+GSM331337   MILES stage 1 data N1_1701  CLL
+GSM330845   MILES stage 1 data N1_1209  AML with normal karyotype + other abnormalities
+GSM330796   MILES stage 1 data N1_1160  AML with normal karyotype + other abnormalities
+GSM330304   MILES stage 1 data N1_0674  c-ALL/Pre-B-ALL without t(9;22)
+GSM330255   MILES stage 1 data N1_0625  c-ALL/Pre-B-ALL without t(9;22)
+GSM329763   MILES stage 1 data N1_0133  c-ALL/Pre-B-ALL with t(9;22)
