@@ -147,33 +147,39 @@ def graph_confusion_matrix(clf, X, y, title='', filename=''):
     plt.close()
 
 def eval_model(X_train, X_test, y_train, aug=''):
-    logistic_accuracies = {'top1':0, 'top5':0}
-    logistic_norm_all_accuracies = {'top1':0, 'top5':0}
-    logistic_norm_accuracies = {'top1':0, 'top5':0}
+    logistic_accuracies = {'train':{'top1':0, 'top5':0}, 'test':{'top1':0, 'top5':0}}
+    logistic_norm_all_accuracies = {'train':{'top1':0, 'top5':0}, 'test':{'top1':0, 'top5':0}}
+    logistic_norm_accuracies = {'train':{'top1':0, 'top5':0}, 'test':{'top1':0, 'top5':0}}
 
     # test logistic regression
     clf = LogisticRegression(penalty='l1', solver='liblinear').fit(X_train, y_train)
+    logistic_accuracies['train']['top1'] += clf.score(X_train, y_train)
+    logistic_accuracies['train']['top5'] += get_top_5_acc(clf.predict_proba(X_train), y_train)
     score = clf.score(X_test, y_test)
-    logistic_accuracies['top1'] += score
-    logistic_accuracies['top5'] += get_top_5_acc(clf.predict_proba(X_test), y_test)
+    logistic_accuracies['test']['top1'] += score
+    logistic_accuracies['test']['top5'] += get_top_5_acc(clf.predict_proba(X_test), y_test)
     graph_confusion_matrix(clf, X_train, y_train, title='Confusion Matrix of Logistic Regression {}\nw/ L1 regularization (train)'.format(aug), filename='cm_logreg_l1_train_{}'.format(aug))
     graph_confusion_matrix(clf, X_test, y_test, title='Confusion Matrix of Logistic Regression {}\nw/ L1 regularization (test)'.format(aug), filename='cm_logreg_l1_test_{}'.format(aug))
 
     # featurize by normalizing each gene expression level
     X_train_norm_all, X_test_norm_all = normalize_all(X_train, X_test)
     clf = LogisticRegression(penalty='l1', solver='liblinear').fit(X_train_norm_all, y_train)
+    logistic_norm_all_accuracies['train']['top1'] += clf.score(X_train_norm_all, y_train)
+    logistic_norm_all_accuracies['train']['top5'] += get_top_5_acc(clf.predict_proba(X_train_norm_all), y_train)
     score = clf.score(X_test_norm_all, y_test)
-    logistic_norm_all_accuracies['top1'] += score
-    logistic_norm_all_accuracies['top5'] += get_top_5_acc(clf.predict_proba(X_test_norm_all), y_test)
+    logistic_norm_all_accuracies['test']['top1'] += score
+    logistic_norm_all_accuracies['test']['top5'] += get_top_5_acc(clf.predict_proba(X_test_norm_all), y_test)
     graph_confusion_matrix(clf, X_train_norm_all, y_train, title='Confusion Matrix of Logistic Regression {}\nw/ L1 regularization + normalizing w/ all (train)'.format(aug), filename='cm_logreg_l1_train_norm_all_{}'.format(aug))
     graph_confusion_matrix(clf, X_test_norm_all, y_test, title='Confusion Matrix of Logistic Regression {}\nw/ L1 regularization + normalizing w/ all (test)'.format(aug), filename='cm_logreg_l1_test_norm_all_{}'.format(aug))
 
     # featurize by normalizing each gene expression level by "Non-leukemia and healthy bone marrow" [9]
     X_train_norm_norms, X_test_norm_norms = normalize_by_normal(X_train, X_test, y_train)
     clf = LogisticRegression(penalty='l1', solver='liblinear').fit(X_train_norm_norms, y_train)
+    logistic_norm_accuracies['train']['top1'] += clf.score(X_train_norm_norms, y_train)
+    logistic_norm_accuracies['train']['top5'] += get_top_5_acc(clf.predict_proba(X_train_norm_norms), y_train)
     score = clf.score(X_test_norm_norms, y_test)
-    logistic_norm_accuracies['top1'] += score
-    logistic_norm_accuracies['top5'] += get_top_5_acc(clf.predict_proba(X_test_norm_norms), y_test)
+    logistic_norm_accuracies['test']['top1'] += score
+    logistic_norm_accuracies['test']['top5'] += get_top_5_acc(clf.predict_proba(X_test_norm_norms), y_test)
     graph_confusion_matrix(clf, X_train_norm_norms, y_train, title='Confusion Matrix of Logistic Regression {}\nw/ L1 regularization + normalizing w/ healthy (train)'.format(aug), filename='cm_logreg_l1_train_norm_health_{}'.format(aug))
     graph_confusion_matrix(clf, X_test_norm_norms, y_test, title='Confusion Matrix of Logistic Regression {}\nw/ L1 regularization + normalizing w/ healthy (test)'.format(aug), filename='cm_logreg_l1_test_norm_health_{}'.format(aug))
 
@@ -185,13 +191,13 @@ def eval_model(X_train, X_test, y_train, aug=''):
     print('logistic - featurize by normalizing each gene expression level by "Non-leukemia and healthy bone marrow"')
     print(logistic_norm_accuracies)
 
-do_eval = True
+do_eval = False
 if do_eval:
     print('eval without significant features')
     eval_model(X_train, X_test, y_train)
     print()
-    # print('eval with significant features')
-    # eval_model(X_train[:, selected_features], X_test[:, selected_features], y_train, aug='+ significant features')
+    print('eval with significant features')
+    eval_model(X_train[:, selected_features], X_test[:, selected_features], y_train, aug='+ significant features')
 
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -231,8 +237,48 @@ def check_weights(X_train, y_train):
             print("{}|{}".format(num_to_feature[ind], A[ind]))
 
 
-
-
 examine_weights = False
 if examine_weights:
     check_weights(X_train, y_train)
+
+def get_top_5_acc_knn(probs, y):
+    top_5_log = np.argsort(probs, axis=1)[:,-5:]
+    top_5 = []
+    for x_i in range(len(top_5_log)):
+        top_5.append(set([i for i in top_5_log[x_i] if probs[x_i][i] > 0]))
+    correct = 0
+    for i in range(len(top_5)):
+        if y[i] in top_5[i]:
+            correct += 1
+    return correct / y.shape[0]
+
+from sklearn.neighbors import KNeighborsClassifier
+
+def k_nearest_neighbors(k, Xtrain, ytrain, Xtest, ytest, graph=False):
+    neigh = KNeighborsClassifier(n_neighbors=k)
+    neigh.fit(Xtrain, ytrain)
+    preds = neigh.predict(Xtest)
+    correct = 0
+    for i in range(len(preds)):
+        if ytest[i] == preds[i]:
+            correct += 1
+    print('top 1 accuracy: {}'.format(correct/len(preds)))
+    print('top 5 accuracy: {}'.format(get_top_5_acc_knn(neigh.predict_proba(Xtest), ytest)))
+    if graph:
+        graph_confusion_matrix(neigh, X_test, y_test, title='Confusion Matrix of K-Nearest Neighbors (test)', filename='cm_knn_test_{}'.format(k))
+
+do_knn = True
+if do_knn:
+    print('k nearest neighbors')
+    X_train_sig = X_train[:, selected_features]
+    X_test_sig = X_test[:, selected_features]
+    for k in [3, 5, 10, 15, 20]:
+        print(k)
+        print('w/o significant')
+        k_nearest_neighbors(k, X_train, y_train, X_test, y_test)
+        print('w/ significant')
+        k_nearest_neighbors(k, X_train_sig, y_train, X_test_sig, y_test)
+
+    k = 20
+
+    k_nearest_neighbors(k, X_train, y_train, X_test, y_test, graph=True)
