@@ -102,9 +102,17 @@ def featurize(p_threshold):
         print("{}: {}".format(count, shared_counts[count]))
 
     count_to_feature_to_diagnosis = {}
+    select = True
+    select_count = 0
+    s = []
+
     for feature in feature_map:
         count = feature_map[feature]
-        if count < 10: continue
+        if select and count == 1: 
+            s.append(feature)
+            select_count += 1
+            if select_count > 4:
+                select = False
         if count not in count_to_feature_to_diagnosis:
             count_to_feature_to_diagnosis[count] = {}
         count_to_feature_to_diagnosis[count][feature] = []
@@ -114,9 +122,16 @@ def featurize(p_threshold):
 
     for count in sorted(count_to_feature_to_diagnosis, key=lambda x:-x):
         print(count)
+        if count < 10: continue
         for feature in count_to_feature_to_diagnosis[count]:
             feature_name = num_to_feature[str(feature)]
             print("{}|{}".format(feature_name, ", ".join([num_to_label[str(label)] for label in count_to_feature_to_diagnosis[count][feature]])))
+
+    print()
+    print('selecting singles')
+    for feature in s:
+        feature_name = num_to_feature[str(feature)]
+        print("{}|{}".format(feature_name, ''.join(num_to_label[str(label)] for label in count_to_feature_to_diagnosis[1][feature])))
 
 featurize(0.05)
 # featurize(0.10)
