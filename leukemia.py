@@ -265,9 +265,9 @@ def k_nearest_neighbors(k, Xtrain, ytrain, Xtest, ytest, graph=False):
     print('top 1 accuracy: {}'.format(correct/len(preds)))
     print('top 5 accuracy: {}'.format(get_top_5_acc_knn(neigh.predict_proba(Xtest), ytest)))
     if graph:
-        graph_confusion_matrix(neigh, X_test, y_test, title='Confusion Matrix of K-Nearest Neighbors (test)', filename='cm_knn_test_{}'.format(k))
+        graph_confusion_matrix(neigh, Xtest, ytest, title='Confusion Matrix of K-Nearest Neighbors (test)', filename='cm_knn_test_{}'.format(k))
 
-do_knn = True
+do_knn = False
 if do_knn:
     print('k nearest neighbors')
     X_train_sig = X_train[:, selected_features]
@@ -279,6 +279,12 @@ if do_knn:
         print('w/ significant')
         k_nearest_neighbors(k, X_train_sig, y_train, X_test_sig, y_test)
 
-    k = 20
+    k = 10
 
     k_nearest_neighbors(k, X_train, y_train, X_test, y_test, graph=True)
+
+
+examine_most_heavy = False
+if examine_most_heavy:
+    selected = X_train[y_train == label_to_num['mature B-ALL with t(8;14)']]
+    print(selected[:,[2978, 6343, 7006, 257]])
